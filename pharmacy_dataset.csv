@@ -1,0 +1,508 @@
+pharmacy_name,city,address,latitude,longitude,medicine_name,stock
+LifeCare Pharmacy 36,Delhi,"16 Main Road, Delhi",28.62784,77.223234,Metformin,94
+HealthFirst Medicos 3,Kurukshetra,"52 Main Road, Kurukshetra",29.965274,76.896062,Augmentin,83
+CarePlus Pharmacy 14,Yamunanagar,"8 Main Road, Yamunanagar",30.140976,77.260276,Amlodipine,96
+LifeCare Pharmacy 48,Chandigarh,"99 Main Road, Chandigarh",30.74171,76.783954,Pantoprazole,39
+Wellness Forever Pharmacy 36,Sonipat,"54 Main Road, Sonipat",29.009413,76.99993,Cetrizine,97
+Sharma Medical Store 41,Karnal,"27 Main Road, Karnal",29.703616,76.980766,Pantoprazole,6
+Apollo Pharmacy 13,Yamunanagar,"49 Main Road, Yamunanagar",30.123171,77.255334,Paracetamol,1
+MedPlus Pharmacy 43,Panipat,"56 Main Road, Panipat",29.402301,76.954379,Amoxicillin,26
+LifeCare Pharmacy 46,Sonipat,"69 Main Road, Sonipat",28.9741,77.019195,Dolo 650,37
+Wellness Forever Pharmacy 4,Rajpura,"119 Main Road, Rajpura",30.466331,76.600521,Montelukast,37
+Sharma Medical Store 22,Yamunanagar,"59 Main Road, Yamunanagar",30.110954,77.284362,Ibuprofen,17
+Sharma Medical Store 42,Yamunanagar,"24 Main Road, Yamunanagar",30.130762,77.285277,Amoxicillin,22
+MedPlus Pharmacy 32,Karnal,"7 Main Road, Karnal",29.695598,76.982135,Cetrizine,93
+Sharma Medical Store 46,Kurukshetra,"10 Main Road, Kurukshetra",29.980598,76.881933,Levothyroxine,41
+Wellness Forever Pharmacy 8,Ambala,"91 Main Road, Ambala",30.388663,76.794634,Paracetamol,26
+HealthFirst Medicos 11,Patiala,"90 Main Road, Patiala",30.357238,76.397825,Montelukast,86
+HealthFirst Medicos 21,Ambala,"64 Main Road, Ambala",30.3797,76.78099,Crocin,96
+Wellness Forever Pharmacy 9,Patiala,"103 Main Road, Patiala",30.327482,76.405565,Metformin,53
+MedPlus Pharmacy 13,Patiala,"53 Main Road, Patiala",30.359661,76.370229,Atorvastatin,94
+MedPlus Pharmacy 31,Delhi,"55 Main Road, Delhi",28.606477,77.200835,Pantoprazole,9
+Apollo Pharmacy 14,Kurukshetra,"120 Main Road, Kurukshetra",29.985353,76.892043,Pantoprazole,54
+City Medicos 32,Chandigarh,"111 Main Road, Chandigarh",30.729446,76.778803,Insulin,60
+Sharma Medical Store 39,Chandigarh,"79 Main Road, Chandigarh",30.718212,76.796093,Paracetamol,93
+LifeCare Pharmacy 1,Yamunanagar,"71 Main Road, Yamunanagar",30.130896,77.284587,Losartan,62
+LifeCare Pharmacy 43,Kurukshetra,"74 Main Road, Kurukshetra",29.98167,76.860085,Insulin,84
+Wellness Forever Pharmacy 18,Yamunanagar,"4 Main Road, Yamunanagar",30.122459,77.270931,ORS,73
+Apollo Pharmacy 9,Ambala,"75 Main Road, Ambala",30.386297,76.758815,Omeprazole,1
+City Medicos 6,Chandigarh,"117 Main Road, Chandigarh",30.728581,76.778243,Augmentin,19
+CarePlus Pharmacy 17,Chandigarh,"77 Main Road, Chandigarh",30.739074,76.764755,Losartan,53
+City Medicos 17,Panipat,"112 Main Road, Panipat",29.403219,76.976629,Atorvastatin,83
+Apollo Pharmacy 10,Yamunanagar,"52 Main Road, Yamunanagar",30.136673,77.272723,Metformin,61
+Wellness Forever Pharmacy 4,Ambala,"117 Main Road, Ambala",30.371536,76.784573,Cetrizine,49
+Wellness Forever Pharmacy 36,Chandigarh,"24 Main Road, Chandigarh",30.718035,76.779832,Ibuprofen,84
+CarePlus Pharmacy 50,Ambala,"31 Main Road, Ambala",30.383917,76.77575,ORS,52
+CarePlus Pharmacy 43,Ambala,"54 Main Road, Ambala",30.396058,76.770806,Diclofenac,7
+Gupta Medicos 48,Rajpura,"90 Main Road, Rajpura",30.501307,76.603763,Losartan,98
+Guardian Pharmacy 1,Yamunanagar,"90 Main Road, Yamunanagar",30.121741,77.250173,Atorvastatin,84
+LifeCare Pharmacy 20,Kurukshetra,"114 Main Road, Kurukshetra",29.986649,76.887296,Aspirin,37
+MedPlus Pharmacy 13,Karnal,"50 Main Road, Karnal",29.667431,76.990223,Atorvastatin,67
+Gupta Medicos 42,Chandigarh,"47 Main Road, Chandigarh",30.745125,76.763742,Cetrizine,83
+LifeCare Pharmacy 6,Patiala,"39 Main Road, Patiala",30.35361,76.400882,Levothyroxine,34
+Wellness Forever Pharmacy 2,Ambala,"71 Main Road, Ambala",30.394917,76.785389,Amoxicillin,31
+CarePlus Pharmacy 29,Kurukshetra,"49 Main Road, Kurukshetra",29.9708,76.861881,Atorvastatin,76
+Apollo Pharmacy 31,Kurukshetra,"64 Main Road, Kurukshetra",29.979435,76.865306,Ibuprofen,81
+LifeCare Pharmacy 11,Sonipat,"8 Main Road, Sonipat",29.003981,77.002942,Levothyroxine,3
+HealthFirst Medicos 10,Rajpura,"82 Main Road, Rajpura",30.480953,76.580992,Omeprazole,22
+CarePlus Pharmacy 10,Patiala,"15 Main Road, Patiala",30.337201,76.388132,Insulin,14
+CarePlus Pharmacy 43,Ambala,"46 Main Road, Ambala",30.368615,76.766,Omeprazole,57
+CarePlus Pharmacy 13,Sonipat,"97 Main Road, Sonipat",28.974227,77.003195,Crocin,1
+LifeCare Pharmacy 14,Chandigarh,"92 Main Road, Chandigarh",30.749904,76.778083,Atorvastatin,23
+Wellness Forever Pharmacy 21,Kurukshetra,"2 Main Road, Kurukshetra",29.979632,76.859178,Diclofenac,13
+Sharma Medical Store 8,Chandigarh,"44 Main Road, Chandigarh",30.721792,76.782684,Cetrizine,67
+CarePlus Pharmacy 7,Patiala,"108 Main Road, Patiala",30.323274,76.369278,Pantoprazole,88
+Wellness Forever Pharmacy 47,Panipat,"21 Main Road, Panipat",29.391688,76.95068,Cetrizine,57
+Wellness Forever Pharmacy 32,Patiala,"7 Main Road, Patiala",30.334947,76.403643,Amlodipine,79
+Wellness Forever Pharmacy 10,Sonipat,"23 Main Road, Sonipat",28.984727,76.995219,Insulin,11
+HealthFirst Medicos 27,Patiala,"73 Main Road, Patiala",30.355143,76.37693,Pantoprazole,100
+LifeCare Pharmacy 44,Delhi,"10 Main Road, Delhi",28.604258,77.217861,Montelukast,43
+MedPlus Pharmacy 2,Rajpura,"18 Main Road, Rajpura",30.503388,76.596996,Ibuprofen,56
+City Medicos 17,Delhi,"61 Main Road, Delhi",28.598315,77.207145,Paracetamol,46
+HealthFirst Medicos 43,Sonipat,"99 Main Road, Sonipat",28.987554,76.998705,Amoxicillin,76
+Wellness Forever Pharmacy 32,Chandigarh,"42 Main Road, Chandigarh",30.74803,76.78151,Omeprazole,73
+Gupta Medicos 25,Yamunanagar,"100 Main Road, Yamunanagar",30.126115,77.286332,Atorvastatin,42
+City Medicos 14,Delhi,"10 Main Road, Delhi",28.618995,77.18959,Diclofenac,86
+HealthFirst Medicos 49,Karnal,"56 Main Road, Karnal",29.697174,76.987604,Montelukast,85
+City Medicos 7,Panipat,"19 Main Road, Panipat",29.392095,76.979476,Crocin,90
+LifeCare Pharmacy 47,Chandigarh,"115 Main Road, Chandigarh",30.723315,76.761781,Montelukast,15
+City Medicos 6,Karnal,"38 Main Road, Karnal",29.674628,76.982635,ORS,5
+HealthFirst Medicos 7,Karnal,"74 Main Road, Karnal",29.695864,76.994762,Atorvastatin,88
+Wellness Forever Pharmacy 6,Kurukshetra,"45 Main Road, Kurukshetra",29.977011,76.890837,Atorvastatin,37
+Gupta Medicos 19,Ambala,"53 Main Road, Ambala",30.361431,76.781318,Cetrizine,40
+Gupta Medicos 28,Kurukshetra,"50 Main Road, Kurukshetra",29.968008,76.882611,Dolo 650,61
+LifeCare Pharmacy 18,Rajpura,"76 Main Road, Rajpura",30.467158,76.591645,Montelukast,60
+CarePlus Pharmacy 18,Karnal,"89 Main Road, Karnal",29.694659,76.980517,Diclofenac,2
+Apollo Pharmacy 45,Sonipat,"87 Main Road, Sonipat",28.982373,77.024552,Omeprazole,8
+Sharma Medical Store 26,Ambala,"20 Main Road, Ambala",30.382185,76.768737,Diclofenac,66
+Wellness Forever Pharmacy 38,Patiala,"14 Main Road, Patiala",30.351416,76.388516,Levothyroxine,96
+Gupta Medicos 10,Karnal,"21 Main Road, Karnal",29.686496,76.982787,Crocin,89
+Sharma Medical Store 41,Sonipat,"54 Main Road, Sonipat",28.980688,77.009533,Crocin,66
+Guardian Pharmacy 44,Ambala,"40 Main Road, Ambala",30.377956,76.760469,Omeprazole,8
+HealthFirst Medicos 22,Rajpura,"71 Main Road, Rajpura",30.471168,76.596668,Diclofenac,51
+MedPlus Pharmacy 47,Yamunanagar,"1 Main Road, Yamunanagar",30.135452,77.284936,Amlodipine,90
+Apollo Pharmacy 46,Patiala,"18 Main Road, Patiala",30.349521,76.373052,Amoxicillin,17
+City Medicos 27,Ambala,"53 Main Road, Ambala",30.383008,76.783262,Azithromycin,28
+Apollo Pharmacy 45,Rajpura,"18 Main Road, Rajpura",30.501119,76.602265,Augmentin,15
+MedPlus Pharmacy 10,Patiala,"113 Main Road, Patiala",30.359635,76.394484,ORS,34
+Wellness Forever Pharmacy 19,Delhi,"101 Main Road, Delhi",28.622563,77.198729,Diclofenac,21
+LifeCare Pharmacy 10,Delhi,"34 Main Road, Delhi",28.631329,77.205885,Amoxicillin,92
+Gupta Medicos 14,Patiala,"58 Main Road, Patiala",30.337923,76.389739,Omeprazole,36
+Gupta Medicos 32,Patiala,"11 Main Road, Patiala",30.341215,76.374477,Paracetamol,73
+Apollo Pharmacy 33,Patiala,"46 Main Road, Patiala",30.325242,76.379965,Insulin,84
+CarePlus Pharmacy 23,Rajpura,"87 Main Road, Rajpura",30.478057,76.60423,Amlodipine,20
+Wellness Forever Pharmacy 22,Patiala,"37 Main Road, Patiala",30.329934,76.37448,Montelukast,84
+HealthFirst Medicos 7,Sonipat,"47 Main Road, Sonipat",28.987785,77.026872,Dolo 650,66
+Gupta Medicos 35,Karnal,"36 Main Road, Karnal",29.697063,76.981003,Dolo 650,96
+MedPlus Pharmacy 44,Kurukshetra,"76 Main Road, Kurukshetra",29.955615,76.888928,Aspirin,51
+MedPlus Pharmacy 49,Chandigarh,"69 Main Road, Chandigarh",30.726067,76.7875,Atorvastatin,61
+Gupta Medicos 25,Yamunanagar,"116 Main Road, Yamunanagar",30.131887,77.284989,Levothyroxine,12
+Guardian Pharmacy 1,Yamunanagar,"15 Main Road, Yamunanagar",30.129824,77.276082,Metformin,19
+Wellness Forever Pharmacy 22,Karnal,"15 Main Road, Karnal",29.697361,76.981077,Diclofenac,81
+Gupta Medicos 28,Delhi,"25 Main Road, Delhi",28.617216,77.219935,Augmentin,50
+Apollo Pharmacy 42,Kurukshetra,"80 Main Road, Kurukshetra",29.97136,76.859659,Metformin,22
+Guardian Pharmacy 48,Yamunanagar,"112 Main Road, Yamunanagar",30.132418,77.277051,Aspirin,99
+City Medicos 14,Karnal,"113 Main Road, Karnal",29.687377,77.005687,Omeprazole,37
+HealthFirst Medicos 13,Delhi,"98 Main Road, Delhi",28.616185,77.218245,Amoxicillin,95
+CarePlus Pharmacy 26,Panipat,"16 Main Road, Panipat",29.395881,76.967343,Ibuprofen,3
+City Medicos 43,Kurukshetra,"3 Main Road, Kurukshetra",29.979642,76.870458,Atorvastatin,38
+Guardian Pharmacy 3,Panipat,"119 Main Road, Panipat",29.407115,76.94996,Metformin,41
+Wellness Forever Pharmacy 36,Patiala,"119 Main Road, Patiala",30.322007,76.377008,Cetrizine,78
+Wellness Forever Pharmacy 2,Panipat,"112 Main Road, Panipat",29.37276,76.950792,ORS,89
+Sharma Medical Store 36,Patiala,"83 Main Road, Patiala",30.35417,76.391405,Amoxicillin,7
+Guardian Pharmacy 42,Ambala,"70 Main Road, Ambala",30.374786,76.770257,ORS,39
+CarePlus Pharmacy 44,Sonipat,"101 Main Road, Sonipat",28.992996,77.010636,Pantoprazole,72
+Wellness Forever Pharmacy 35,Delhi,"110 Main Road, Delhi",28.595977,77.218181,Amoxicillin,6
+HealthFirst Medicos 19,Kurukshetra,"26 Main Road, Kurukshetra",29.965836,76.889631,Ibuprofen,13
+Wellness Forever Pharmacy 13,Chandigarh,"38 Main Road, Chandigarh",30.737129,76.780895,Paracetamol,94
+CarePlus Pharmacy 3,Delhi,"36 Main Road, Delhi",28.627031,77.223021,Amoxicillin,70
+HealthFirst Medicos 7,Rajpura,"51 Main Road, Rajpura",30.492326,76.587076,Amlodipine,63
+Sharma Medical Store 36,Sonipat,"26 Main Road, Sonipat",29.006991,77.011754,Crocin,83
+LifeCare Pharmacy 34,Karnal,"85 Main Road, Karnal",29.677095,77.000246,Omeprazole,56
+Apollo Pharmacy 14,Chandigarh,"73 Main Road, Chandigarh",30.736132,76.769552,Atorvastatin,100
+Gupta Medicos 17,Patiala,"110 Main Road, Patiala",30.353125,76.390054,Montelukast,59
+Gupta Medicos 14,Yamunanagar,"22 Main Road, Yamunanagar",30.136845,77.260449,Insulin,70
+HealthFirst Medicos 42,Ambala,"92 Main Road, Ambala",30.391122,76.791065,Montelukast,18
+HealthFirst Medicos 21,Karnal,"91 Main Road, Karnal",29.670752,77.000301,Augmentin,49
+HealthFirst Medicos 23,Panipat,"66 Main Road, Panipat",29.40129,76.968703,Cetrizine,47
+MedPlus Pharmacy 32,Rajpura,"96 Main Road, Rajpura",30.490363,76.579481,Dolo 650,71
+Gupta Medicos 13,Patiala,"109 Main Road, Patiala",30.352712,76.36698,Dolo 650,25
+Wellness Forever Pharmacy 37,Ambala,"117 Main Road, Ambala",30.377207,76.770952,Metformin,24
+City Medicos 47,Chandigarh,"82 Main Road, Chandigarh",30.723744,76.769041,Montelukast,8
+Gupta Medicos 33,Sonipat,"110 Main Road, Sonipat",28.996994,77.006361,Augmentin,61
+Sharma Medical Store 1,Karnal,"25 Main Road, Karnal",29.700787,76.994309,Aspirin,79
+City Medicos 9,Patiala,"102 Main Road, Patiala",30.353606,76.378066,Azithromycin,5
+Wellness Forever Pharmacy 48,Delhi,"48 Main Road, Delhi",28.60889,77.225655,Metformin,49
+Wellness Forever Pharmacy 35,Karnal,"7 Main Road, Karnal",29.703998,76.972396,Atorvastatin,4
+Apollo Pharmacy 1,Patiala,"34 Main Road, Patiala",30.320465,76.397755,Losartan,72
+Sharma Medical Store 29,Delhi,"70 Main Road, Delhi",28.625664,77.214482,Aspirin,64
+Apollo Pharmacy 16,Karnal,"58 Main Road, Karnal",29.702942,77.002046,Montelukast,30
+MedPlus Pharmacy 11,Rajpura,"86 Main Road, Rajpura",30.465975,76.585816,Amlodipine,67
+HealthFirst Medicos 11,Rajpura,"65 Main Road, Rajpura",30.487196,76.57629,Aspirin,59
+City Medicos 36,Yamunanagar,"26 Main Road, Yamunanagar",30.115978,77.282315,Dolo 650,46
+Sharma Medical Store 48,Patiala,"40 Main Road, Patiala",30.352236,76.400781,Dolo 650,54
+Sharma Medical Store 14,Patiala,"61 Main Road, Patiala",30.335059,76.376489,ORS,85
+LifeCare Pharmacy 49,Ambala,"109 Main Road, Ambala",30.374906,76.76385,ORS,72
+HealthFirst Medicos 42,Delhi,"13 Main Road, Delhi",28.603794,77.209412,Dolo 650,95
+Sharma Medical Store 44,Rajpura,"79 Main Road, Rajpura",30.480049,76.589291,Insulin,7
+City Medicos 27,Yamunanagar,"94 Main Road, Yamunanagar",30.113007,77.256516,Amoxicillin,20
+Apollo Pharmacy 21,Rajpura,"34 Main Road, Rajpura",30.467979,76.609224,ORS,90
+Sharma Medical Store 46,Sonipat,"97 Main Road, Sonipat",29.010005,77.022266,Aspirin,90
+Apollo Pharmacy 44,Kurukshetra,"102 Main Road, Kurukshetra",29.956826,76.866971,Pantoprazole,76
+Sharma Medical Store 7,Ambala,"80 Main Road, Ambala",30.367141,76.785193,Insulin,77
+Gupta Medicos 11,Ambala,"28 Main Road, Ambala",30.35906,76.774107,Crocin,11
+Sharma Medical Store 22,Kurukshetra,"43 Main Road, Kurukshetra",29.955334,76.866496,Aspirin,27
+City Medicos 16,Delhi,"48 Main Road, Delhi",28.632236,77.218627,Azithromycin,5
+Apollo Pharmacy 32,Rajpura,"56 Main Road, Rajpura",30.485443,76.609874,Levothyroxine,38
+Wellness Forever Pharmacy 16,Yamunanagar,"105 Main Road, Yamunanagar",30.146163,77.28627,Metformin,57
+HealthFirst Medicos 4,Panipat,"53 Main Road, Panipat",29.373577,76.970833,Levothyroxine,50
+Gupta Medicos 33,Ambala,"6 Main Road, Ambala",30.360617,76.789542,Pantoprazole,85
+Apollo Pharmacy 13,Karnal,"103 Main Road, Karnal",29.686927,76.990337,Metformin,70
+Sharma Medical Store 17,Karnal,"89 Main Road, Karnal",29.702558,76.980298,Atorvastatin,94
+Guardian Pharmacy 13,Sonipat,"82 Main Road, Sonipat",29.006045,77.011431,Insulin,92
+City Medicos 10,Patiala,"73 Main Road, Patiala",30.339038,76.39893,ORS,10
+Wellness Forever Pharmacy 9,Ambala,"114 Main Road, Ambala",30.37922,76.796509,Diclofenac,69
+Apollo Pharmacy 2,Delhi,"48 Main Road, Delhi",28.59888,77.206499,Amlodipine,44
+LifeCare Pharmacy 43,Rajpura,"71 Main Road, Rajpura",30.486032,76.605903,Metformin,70
+Wellness Forever Pharmacy 37,Patiala,"87 Main Road, Patiala",30.353187,76.398981,Paracetamol,21
+Apollo Pharmacy 9,Patiala,"26 Main Road, Patiala",30.329453,76.37562,Azithromycin,42
+CarePlus Pharmacy 27,Panipat,"104 Main Road, Panipat",29.410616,76.981999,Ibuprofen,24
+Apollo Pharmacy 16,Rajpura,"48 Main Road, Rajpura",30.471818,76.595703,Augmentin,57
+Gupta Medicos 49,Chandigarh,"101 Main Road, Chandigarh",30.746381,76.784207,Pantoprazole,11
+Guardian Pharmacy 47,Chandigarh,"105 Main Road, Chandigarh",30.748078,76.79265,Diclofenac,70
+HealthFirst Medicos 50,Karnal,"25 Main Road, Karnal",29.667491,76.984447,Azithromycin,60
+Apollo Pharmacy 17,Ambala,"80 Main Road, Ambala",30.369275,76.777217,Montelukast,100
+MedPlus Pharmacy 35,Karnal,"118 Main Road, Karnal",29.671636,76.995591,Levothyroxine,56
+Guardian Pharmacy 25,Delhi,"55 Main Road, Delhi",28.611683,77.221515,Diclofenac,83
+CarePlus Pharmacy 38,Patiala,"48 Main Road, Patiala",30.351537,76.391677,Amoxicillin,0
+Gupta Medicos 29,Patiala,"119 Main Road, Patiala",30.34428,76.399374,Cetrizine,66
+Guardian Pharmacy 31,Patiala,"21 Main Road, Patiala",30.343962,76.374617,Paracetamol,49
+Apollo Pharmacy 4,Karnal,"9 Main Road, Karnal",29.678526,76.973998,Insulin,35
+City Medicos 44,Ambala,"77 Main Road, Ambala",30.382718,76.774381,Diclofenac,34
+City Medicos 20,Ambala,"17 Main Road, Ambala",30.386592,76.77749,Diclofenac,98
+Sharma Medical Store 45,Yamunanagar,"116 Main Road, Yamunanagar",30.126179,77.264446,Crocin,74
+Gupta Medicos 17,Karnal,"7 Main Road, Karnal",29.686807,77.001809,ORS,49
+Wellness Forever Pharmacy 41,Chandigarh,"94 Main Road, Chandigarh",30.72953,76.761471,Ibuprofen,12
+Gupta Medicos 13,Rajpura,"26 Main Road, Rajpura",30.492877,76.598319,Crocin,38
+LifeCare Pharmacy 7,Rajpura,"75 Main Road, Rajpura",30.495848,76.611261,Dolo 650,26
+City Medicos 15,Kurukshetra,"106 Main Road, Kurukshetra",29.980762,76.867481,Augmentin,81
+Sharma Medical Store 38,Chandigarh,"68 Main Road, Chandigarh",30.737547,76.789496,Augmentin,100
+HealthFirst Medicos 8,Sonipat,"112 Main Road, Sonipat",28.976205,77.010989,Amoxicillin,23
+City Medicos 48,Yamunanagar,"99 Main Road, Yamunanagar",30.113251,77.277829,Azithromycin,60
+MedPlus Pharmacy 38,Panipat,"111 Main Road, Panipat",29.395067,76.979668,Atorvastatin,77
+Gupta Medicos 35,Rajpura,"13 Main Road, Rajpura",30.466532,76.599264,Amoxicillin,11
+MedPlus Pharmacy 12,Chandigarh,"50 Main Road, Chandigarh",30.718733,76.774745,Amlodipine,33
+Sharma Medical Store 36,Delhi,"103 Main Road, Delhi",28.62796,77.207637,Azithromycin,6
+Guardian Pharmacy 22,Delhi,"1 Main Road, Delhi",28.601887,77.223819,Azithromycin,66
+Guardian Pharmacy 5,Delhi,"21 Main Road, Delhi",28.614578,77.212714,Amoxicillin,76
+Apollo Pharmacy 35,Chandigarh,"55 Main Road, Chandigarh",30.732349,76.773249,Azithromycin,12
+Sharma Medical Store 38,Yamunanagar,"58 Main Road, Yamunanagar",30.131976,77.275538,Crocin,24
+CarePlus Pharmacy 50,Kurukshetra,"117 Main Road, Kurukshetra",29.986314,76.871551,Omeprazole,60
+Sharma Medical Store 7,Ambala,"47 Main Road, Ambala",30.393387,76.776434,Atorvastatin,97
+Wellness Forever Pharmacy 35,Panipat,"74 Main Road, Panipat",29.390846,76.97361,Aspirin,91
+Apollo Pharmacy 48,Chandigarh,"118 Main Road, Chandigarh",30.748691,76.778124,Metformin,20
+Guardian Pharmacy 45,Delhi,"48 Main Road, Delhi",28.609515,77.206116,Aspirin,14
+Wellness Forever Pharmacy 10,Patiala,"23 Main Road, Patiala",30.345253,76.405538,Dolo 650,28
+HealthFirst Medicos 13,Kurukshetra,"108 Main Road, Kurukshetra",29.954419,76.875017,Diclofenac,47
+Gupta Medicos 30,Chandigarh,"71 Main Road, Chandigarh",30.744428,76.782978,Crocin,51
+Apollo Pharmacy 22,Yamunanagar,"112 Main Road, Yamunanagar",30.129145,77.263223,Amoxicillin,28
+City Medicos 10,Kurukshetra,"102 Main Road, Kurukshetra",29.952868,76.882125,Metformin,95
+HealthFirst Medicos 11,Ambala,"86 Main Road, Ambala",30.381567,76.757322,Aspirin,87
+Guardian Pharmacy 32,Yamunanagar,"19 Main Road, Yamunanagar",30.142816,77.281243,Pantoprazole,85
+LifeCare Pharmacy 15,Kurukshetra,"82 Main Road, Kurukshetra",29.974411,76.888062,Omeprazole,84
+Apollo Pharmacy 21,Panipat,"120 Main Road, Panipat",29.371473,76.978959,Insulin,24
+MedPlus Pharmacy 48,Kurukshetra,"64 Main Road, Kurukshetra",29.985945,76.878353,Cetrizine,93
+MedPlus Pharmacy 7,Chandigarh,"112 Main Road, Chandigarh",30.718387,76.772791,Losartan,59
+HealthFirst Medicos 46,Sonipat,"68 Main Road, Sonipat",29.003624,77.028357,Cetrizine,45
+Apollo Pharmacy 12,Kurukshetra,"63 Main Road, Kurukshetra",29.956865,76.897662,Diclofenac,98
+Apollo Pharmacy 41,Sonipat,"113 Main Road, Sonipat",28.983058,77.031233,ORS,32
+MedPlus Pharmacy 21,Panipat,"82 Main Road, Panipat",29.395963,76.981713,Crocin,82
+Gupta Medicos 21,Karnal,"89 Main Road, Karnal",29.679891,76.986557,Insulin,94
+Sharma Medical Store 26,Delhi,"24 Main Road, Delhi",28.626408,77.216342,Crocin,90
+Sharma Medical Store 42,Patiala,"5 Main Road, Patiala",30.322767,76.373749,Azithromycin,63
+HealthFirst Medicos 28,Kurukshetra,"104 Main Road, Kurukshetra",29.977916,76.891443,Amlodipine,35
+HealthFirst Medicos 24,Yamunanagar,"85 Main Road, Yamunanagar",30.145903,77.279399,Pantoprazole,88
+Gupta Medicos 27,Sonipat,"93 Main Road, Sonipat",28.988836,76.998988,Cetrizine,82
+CarePlus Pharmacy 38,Patiala,"59 Main Road, Patiala",30.331736,76.366968,Metformin,41
+Wellness Forever Pharmacy 36,Delhi,"93 Main Road, Delhi",28.622564,77.19034,Dolo 650,32
+Guardian Pharmacy 31,Karnal,"88 Main Road, Karnal",29.680989,76.978892,Ibuprofen,18
+CarePlus Pharmacy 29,Delhi,"79 Main Road, Delhi",28.631145,77.204599,Insulin,57
+HealthFirst Medicos 17,Rajpura,"74 Main Road, Rajpura",30.501089,76.597423,Azithromycin,61
+MedPlus Pharmacy 50,Sonipat,"52 Main Road, Sonipat",29.006564,77.01253,Montelukast,57
+Sharma Medical Store 20,Kurukshetra,"17 Main Road, Kurukshetra",29.988817,76.8655,Pantoprazole,7
+CarePlus Pharmacy 28,Yamunanagar,"74 Main Road, Yamunanagar",30.121526,77.271397,Metformin,49
+LifeCare Pharmacy 9,Panipat,"45 Main Road, Panipat",29.376019,76.950589,Diclofenac,72
+CarePlus Pharmacy 5,Chandigarh,"107 Main Road, Chandigarh",30.736741,76.784732,Amoxicillin,4
+Gupta Medicos 26,Kurukshetra,"38 Main Road, Kurukshetra",29.969214,76.871038,Amoxicillin,65
+MedPlus Pharmacy 45,Rajpura,"112 Main Road, Rajpura",30.494549,76.576784,Azithromycin,45
+Gupta Medicos 25,Rajpura,"51 Main Road, Rajpura",30.473307,76.577426,Azithromycin,49
+Wellness Forever Pharmacy 38,Kurukshetra,"36 Main Road, Kurukshetra",29.955234,76.88859,Crocin,82
+City Medicos 2,Panipat,"107 Main Road, Panipat",29.375899,76.97598,Metformin,6
+MedPlus Pharmacy 26,Sonipat,"15 Main Road, Sonipat",29.008741,77.000858,Levothyroxine,66
+LifeCare Pharmacy 28,Rajpura,"96 Main Road, Rajpura",30.499252,76.610826,Insulin,17
+Sharma Medical Store 12,Panipat,"31 Main Road, Panipat",29.38635,76.945845,Amlodipine,37
+Gupta Medicos 33,Kurukshetra,"97 Main Road, Kurukshetra",29.971184,76.88897,Losartan,66
+Guardian Pharmacy 49,Panipat,"116 Main Road, Panipat",29.403863,76.956692,Crocin,29
+HealthFirst Medicos 9,Patiala,"72 Main Road, Patiala",30.33786,76.403842,Azithromycin,31
+Sharma Medical Store 11,Chandigarh,"104 Main Road, Chandigarh",30.715783,76.784505,Diclofenac,14
+Guardian Pharmacy 31,Chandigarh,"75 Main Road, Chandigarh",30.717947,76.759824,Augmentin,28
+Sharma Medical Store 12,Karnal,"85 Main Road, Karnal",29.694989,76.990722,Azithromycin,71
+Apollo Pharmacy 15,Karnal,"27 Main Road, Karnal",29.676724,77.00155,ORS,43
+Apollo Pharmacy 50,Kurukshetra,"110 Main Road, Kurukshetra",29.98628,76.87708,Paracetamol,87
+MedPlus Pharmacy 48,Kurukshetra,"78 Main Road, Kurukshetra",29.949931,76.885344,Ibuprofen,12
+MedPlus Pharmacy 45,Kurukshetra,"53 Main Road, Kurukshetra",29.979145,76.895292,Aspirin,61
+MedPlus Pharmacy 18,Rajpura,"60 Main Road, Rajpura",30.472175,76.580091,Crocin,40
+Guardian Pharmacy 32,Ambala,"93 Main Road, Ambala",30.380753,76.794315,Diclofenac,75
+Guardian Pharmacy 43,Panipat,"110 Main Road, Panipat",29.382694,76.958469,Atorvastatin,100
+Wellness Forever Pharmacy 33,Chandigarh,"79 Main Road, Chandigarh",30.745515,76.792992,Omeprazole,83
+City Medicos 20,Delhi,"63 Main Road, Delhi",28.613053,77.201734,Amlodipine,66
+City Medicos 9,Yamunanagar,"50 Main Road, Yamunanagar",30.127689,77.261469,Atorvastatin,39
+HealthFirst Medicos 33,Delhi,"86 Main Road, Delhi",28.623987,77.22815,Montelukast,69
+CarePlus Pharmacy 22,Patiala,"48 Main Road, Patiala",30.351406,76.395706,Losartan,55
+Wellness Forever Pharmacy 8,Chandigarh,"119 Main Road, Chandigarh",30.715337,76.775438,Dolo 650,79
+Guardian Pharmacy 2,Kurukshetra,"20 Main Road, Kurukshetra",29.951469,76.8822,Crocin,40
+CarePlus Pharmacy 17,Karnal,"30 Main Road, Karnal",29.67772,76.98694,Atorvastatin,40
+Apollo Pharmacy 25,Karnal,"21 Main Road, Karnal",29.688278,76.990874,Cetrizine,55
+Wellness Forever Pharmacy 30,Kurukshetra,"109 Main Road, Kurukshetra",29.952787,76.888812,Atorvastatin,31
+Apollo Pharmacy 37,Kurukshetra,"36 Main Road, Kurukshetra",29.980918,76.888832,ORS,81
+Apollo Pharmacy 38,Chandigarh,"2 Main Road, Chandigarh",30.752291,76.785452,Diclofenac,80
+Wellness Forever Pharmacy 36,Kurukshetra,"99 Main Road, Kurukshetra",29.95865,76.858833,Diclofenac,27
+CarePlus Pharmacy 30,Ambala,"44 Main Road, Ambala",30.397966,76.772983,Azithromycin,50
+HealthFirst Medicos 28,Panipat,"5 Main Road, Panipat",29.408239,76.97912,Atorvastatin,32
+CarePlus Pharmacy 16,Rajpura,"33 Main Road, Rajpura",30.49428,76.58646,Aspirin,48
+Sharma Medical Store 11,Karnal,"98 Main Road, Karnal",29.697875,77.000087,ORS,76
+Sharma Medical Store 10,Chandigarh,"93 Main Road, Chandigarh",30.728453,76.772738,Levothyroxine,41
+Gupta Medicos 27,Rajpura,"58 Main Road, Rajpura",30.466288,76.606488,ORS,28
+Guardian Pharmacy 31,Karnal,"1 Main Road, Karnal",29.691072,77.000475,Aspirin,85
+CarePlus Pharmacy 26,Patiala,"53 Main Road, Patiala",30.355023,76.398674,Amlodipine,12
+HealthFirst Medicos 39,Delhi,"110 Main Road, Delhi",28.616141,77.219925,Augmentin,92
+CarePlus Pharmacy 47,Rajpura,"120 Main Road, Rajpura",30.472987,76.607141,Metformin,20
+CarePlus Pharmacy 10,Kurukshetra,"37 Main Road, Kurukshetra",29.977561,76.87618,Losartan,70
+Wellness Forever Pharmacy 43,Chandigarh,"45 Main Road, Chandigarh",30.715197,76.774769,Losartan,27
+Apollo Pharmacy 33,Panipat,"91 Main Road, Panipat",29.38786,76.950544,Amoxicillin,86
+CarePlus Pharmacy 24,Chandigarh,"108 Main Road, Chandigarh",30.739051,76.791958,Dolo 650,3
+CarePlus Pharmacy 47,Ambala,"44 Main Road, Ambala",30.38911,76.757292,Levothyroxine,15
+CarePlus Pharmacy 46,Patiala,"82 Main Road, Patiala",30.324383,76.372361,Atorvastatin,50
+Wellness Forever Pharmacy 6,Kurukshetra,"88 Main Road, Kurukshetra",29.989374,76.865479,Azithromycin,84
+LifeCare Pharmacy 6,Karnal,"69 Main Road, Karnal",29.702972,76.977532,Omeprazole,20
+Gupta Medicos 10,Kurukshetra,"55 Main Road, Kurukshetra",29.970908,76.880133,Pantoprazole,42
+LifeCare Pharmacy 31,Delhi,"98 Main Road, Delhi",28.620188,77.224903,Dolo 650,51
+Sharma Medical Store 42,Karnal,"68 Main Road, Karnal",29.674348,76.985157,Dolo 650,81
+MedPlus Pharmacy 42,Ambala,"103 Main Road, Ambala",30.364031,76.762154,Ibuprofen,13
+Apollo Pharmacy 39,Delhi,"89 Main Road, Delhi",28.60189,77.216923,Crocin,36
+Wellness Forever Pharmacy 33,Kurukshetra,"105 Main Road, Kurukshetra",29.950588,76.87014,Omeprazole,24
+CarePlus Pharmacy 1,Ambala,"48 Main Road, Ambala",30.363031,76.781523,Cetrizine,79
+Guardian Pharmacy 18,Kurukshetra,"11 Main Road, Kurukshetra",29.988086,76.890162,Amlodipine,94
+Sharma Medical Store 40,Rajpura,"56 Main Road, Rajpura",30.484962,76.598376,Metformin,37
+Guardian Pharmacy 32,Rajpura,"14 Main Road, Rajpura",30.487328,76.610393,Losartan,79
+HealthFirst Medicos 33,Patiala,"70 Main Road, Patiala",30.341655,76.395114,Cetrizine,52
+MedPlus Pharmacy 34,Ambala,"91 Main Road, Ambala",30.373295,76.782782,Omeprazole,24
+CarePlus Pharmacy 13,Chandigarh,"31 Main Road, Chandigarh",30.733146,76.797531,Amlodipine,29
+Gupta Medicos 4,Sonipat,"49 Main Road, Sonipat",28.986158,77.02547,Diclofenac,58
+Sharma Medical Store 8,Panipat,"108 Main Road, Panipat",29.383665,76.969711,Crocin,69
+LifeCare Pharmacy 45,Sonipat,"41 Main Road, Sonipat",29.00415,77.033214,Paracetamol,24
+LifeCare Pharmacy 14,Chandigarh,"57 Main Road, Chandigarh",30.748112,76.792922,Insulin,52
+Guardian Pharmacy 29,Ambala,"59 Main Road, Ambala",30.360159,76.776869,Paracetamol,19
+Wellness Forever Pharmacy 45,Panipat,"52 Main Road, Panipat",29.388088,76.964415,Metformin,96
+CarePlus Pharmacy 36,Ambala,"26 Main Road, Ambala",30.361965,76.788508,Atorvastatin,36
+LifeCare Pharmacy 25,Delhi,"82 Main Road, Delhi",28.631099,77.228678,Montelukast,92
+CarePlus Pharmacy 23,Yamunanagar,"53 Main Road, Yamunanagar",30.122098,77.268994,Diclofenac,45
+Apollo Pharmacy 46,Delhi,"8 Main Road, Delhi",28.605714,77.220564,Crocin,88
+Guardian Pharmacy 31,Yamunanagar,"38 Main Road, Yamunanagar",30.146393,77.271485,Metformin,86
+Guardian Pharmacy 29,Rajpura,"3 Main Road, Rajpura",30.467148,76.586636,Ibuprofen,28
+CarePlus Pharmacy 30,Chandigarh,"20 Main Road, Chandigarh",30.718444,76.791164,Crocin,39
+Gupta Medicos 41,Chandigarh,"97 Main Road, Chandigarh",30.727501,76.780537,Insulin,0
+Sharma Medical Store 50,Delhi,"14 Main Road, Delhi",28.618436,77.224262,Pantoprazole,31
+City Medicos 34,Kurukshetra,"91 Main Road, Kurukshetra",29.978616,76.896365,Aspirin,72
+LifeCare Pharmacy 10,Yamunanagar,"10 Main Road, Yamunanagar",30.146175,77.267911,Atorvastatin,76
+Guardian Pharmacy 29,Delhi,"35 Main Road, Delhi",28.617162,77.228042,Amoxicillin,95
+Wellness Forever Pharmacy 24,Chandigarh,"88 Main Road, Chandigarh",30.713307,76.773906,Metformin,24
+MedPlus Pharmacy 40,Panipat,"47 Main Road, Panipat",29.386507,76.946553,Atorvastatin,74
+Gupta Medicos 5,Kurukshetra,"96 Main Road, Kurukshetra",29.956207,76.865065,Dolo 650,58
+MedPlus Pharmacy 27,Ambala,"100 Main Road, Ambala",30.375752,76.773181,Pantoprazole,74
+Gupta Medicos 30,Kurukshetra,"79 Main Road, Kurukshetra",29.976105,76.868393,Ibuprofen,84
+Wellness Forever Pharmacy 33,Delhi,"104 Main Road, Delhi",28.621309,77.21644,Cetrizine,18
+City Medicos 6,Kurukshetra,"119 Main Road, Kurukshetra",29.957818,76.881903,Amoxicillin,17
+Gupta Medicos 10,Rajpura,"103 Main Road, Rajpura",30.483319,76.596568,ORS,55
+City Medicos 39,Patiala,"85 Main Road, Patiala",30.331205,76.387455,Levothyroxine,19
+Gupta Medicos 21,Patiala,"11 Main Road, Patiala",30.336591,76.402788,Omeprazole,48
+HealthFirst Medicos 18,Panipat,"119 Main Road, Panipat",29.395619,76.98297,Ibuprofen,34
+LifeCare Pharmacy 50,Delhi,"50 Main Road, Delhi",28.594995,77.221199,Ibuprofen,40
+Gupta Medicos 13,Sonipat,"104 Main Road, Sonipat",28.980263,77.002286,ORS,31
+Guardian Pharmacy 24,Ambala,"76 Main Road, Ambala",30.369217,76.789212,Azithromycin,78
+Apollo Pharmacy 33,Rajpura,"69 Main Road, Rajpura",30.487468,76.594318,Paracetamol,72
+CarePlus Pharmacy 35,Rajpura,"77 Main Road, Rajpura",30.467425,76.582836,Diclofenac,78
+Apollo Pharmacy 9,Panipat,"22 Main Road, Panipat",29.408865,76.957409,Dolo 650,93
+Apollo Pharmacy 17,Panipat,"77 Main Road, Panipat",29.394243,76.969364,Losartan,60
+HealthFirst Medicos 46,Kurukshetra,"10 Main Road, Kurukshetra",29.985542,76.879886,Losartan,69
+Guardian Pharmacy 18,Patiala,"98 Main Road, Patiala",30.356678,76.393902,Losartan,86
+Sharma Medical Store 1,Rajpura,"68 Main Road, Rajpura",30.482255,76.609537,Losartan,41
+Guardian Pharmacy 37,Patiala,"53 Main Road, Patiala",30.323925,76.401394,Dolo 650,95
+Sharma Medical Store 49,Patiala,"108 Main Road, Patiala",30.342431,76.380843,Crocin,28
+HealthFirst Medicos 17,Delhi,"27 Main Road, Delhi",28.619024,77.203238,Ibuprofen,32
+Gupta Medicos 5,Rajpura,"97 Main Road, Rajpura",30.497147,76.587917,Azithromycin,11
+MedPlus Pharmacy 9,Kurukshetra,"12 Main Road, Kurukshetra",29.968142,76.862509,Aspirin,14
+City Medicos 46,Karnal,"18 Main Road, Karnal",29.693568,76.976202,Pantoprazole,27
+Guardian Pharmacy 20,Karnal,"75 Main Road, Karnal",29.702434,76.974391,Metformin,30
+MedPlus Pharmacy 2,Kurukshetra,"85 Main Road, Kurukshetra",29.984293,76.873641,Augmentin,85
+CarePlus Pharmacy 48,Kurukshetra,"96 Main Road, Kurukshetra",29.955859,76.88419,ORS,10
+CarePlus Pharmacy 25,Yamunanagar,"26 Main Road, Yamunanagar",30.142758,77.268125,Levothyroxine,2
+City Medicos 14,Rajpura,"87 Main Road, Rajpura",30.48223,76.597997,Augmentin,90
+City Medicos 15,Panipat,"56 Main Road, Panipat",29.408088,76.973753,Atorvastatin,78
+City Medicos 14,Rajpura,"60 Main Road, Rajpura",30.502204,76.579475,ORS,14
+LifeCare Pharmacy 40,Delhi,"18 Main Road, Delhi",28.60764,77.222806,Pantoprazole,43
+Apollo Pharmacy 28,Patiala,"3 Main Road, Patiala",30.322653,76.383093,Dolo 650,11
+HealthFirst Medicos 16,Kurukshetra,"32 Main Road, Kurukshetra",29.984348,76.871248,Levothyroxine,2
+City Medicos 10,Kurukshetra,"20 Main Road, Kurukshetra",29.976949,76.873606,Augmentin,51
+CarePlus Pharmacy 28,Chandigarh,"39 Main Road, Chandigarh",30.717727,76.772313,Dolo 650,65
+City Medicos 20,Sonipat,"37 Main Road, Sonipat",29.007702,77.016493,Diclofenac,46
+HealthFirst Medicos 30,Yamunanagar,"84 Main Road, Yamunanagar",30.110153,77.281006,Atorvastatin,72
+Guardian Pharmacy 23,Rajpura,"3 Main Road, Rajpura",30.501965,76.594137,Metformin,4
+MedPlus Pharmacy 31,Panipat,"13 Main Road, Panipat",29.396014,76.951608,Augmentin,7
+Apollo Pharmacy 48,Ambala,"28 Main Road, Ambala",30.38771,76.757402,Montelukast,69
+Gupta Medicos 34,Karnal,"47 Main Road, Karnal",29.700019,76.977265,Metformin,41
+CarePlus Pharmacy 47,Chandigarh,"11 Main Road, Chandigarh",30.724793,76.77344,Amlodipine,55
+Gupta Medicos 16,Delhi,"10 Main Road, Delhi",28.606403,77.196522,Levothyroxine,74
+Gupta Medicos 48,Rajpura,"86 Main Road, Rajpura",30.473446,76.588027,Augmentin,15
+Apollo Pharmacy 29,Yamunanagar,"49 Main Road, Yamunanagar",30.134186,77.273817,Omeprazole,84
+Gupta Medicos 6,Chandigarh,"47 Main Road, Chandigarh",30.718595,76.793025,Omeprazole,20
+Apollo Pharmacy 25,Kurukshetra,"17 Main Road, Kurukshetra",29.976737,76.885237,Montelukast,9
+MedPlus Pharmacy 38,Ambala,"46 Main Road, Ambala",30.381346,76.775637,Omeprazole,0
+City Medicos 9,Chandigarh,"59 Main Road, Chandigarh",30.752861,76.79217,Augmentin,55
+Guardian Pharmacy 3,Karnal,"58 Main Road, Karnal",29.679234,76.97598,Metformin,44
+Sharma Medical Store 12,Karnal,"10 Main Road, Karnal",29.699288,76.988938,Azithromycin,49
+Wellness Forever Pharmacy 49,Panipat,"75 Main Road, Panipat",29.373985,76.945369,Crocin,15
+City Medicos 24,Panipat,"99 Main Road, Panipat",29.402597,76.976501,Crocin,89
+MedPlus Pharmacy 19,Yamunanagar,"106 Main Road, Yamunanagar",30.127051,77.274152,Metformin,90
+CarePlus Pharmacy 19,Yamunanagar,"101 Main Road, Yamunanagar",30.12497,77.268712,Metformin,77
+MedPlus Pharmacy 23,Karnal,"43 Main Road, Karnal",29.670413,77.003627,Amoxicillin,56
+Guardian Pharmacy 15,Patiala,"18 Main Road, Patiala",30.333747,76.380592,Aspirin,10
+Sharma Medical Store 50,Patiala,"21 Main Road, Patiala",30.355872,76.405781,Insulin,47
+Sharma Medical Store 5,Rajpura,"51 Main Road, Rajpura",30.501847,76.576044,Aspirin,65
+Wellness Forever Pharmacy 44,Delhi,"63 Main Road, Delhi",28.612126,77.220208,Ibuprofen,4
+Wellness Forever Pharmacy 15,Chandigarh,"55 Main Road, Chandigarh",30.715085,76.779554,ORS,81
+CarePlus Pharmacy 22,Sonipat,"43 Main Road, Sonipat",28.989612,77.019499,Losartan,42
+Sharma Medical Store 32,Rajpura,"62 Main Road, Rajpura",30.500131,76.594651,Pantoprazole,33
+Gupta Medicos 23,Rajpura,"114 Main Road, Rajpura",30.488053,76.613003,Crocin,33
+Gupta Medicos 46,Chandigarh,"45 Main Road, Chandigarh",30.745548,76.785416,Azithromycin,51
+Apollo Pharmacy 30,Delhi,"93 Main Road, Delhi",28.597198,77.225284,Metformin,27
+Sharma Medical Store 39,Sonipat,"23 Main Road, Sonipat",29.00435,77.015827,Pantoprazole,71
+MedPlus Pharmacy 46,Delhi,"108 Main Road, Delhi",28.621097,77.211092,Paracetamol,27
+Apollo Pharmacy 50,Delhi,"13 Main Road, Delhi",28.630348,77.20926,Diclofenac,45
+CarePlus Pharmacy 47,Karnal,"62 Main Road, Karnal",29.675966,77.009361,Montelukast,69
+Guardian Pharmacy 46,Kurukshetra,"3 Main Road, Kurukshetra",29.956972,76.892274,Amoxicillin,96
+LifeCare Pharmacy 22,Ambala,"65 Main Road, Ambala",30.36579,76.757487,ORS,85
+City Medicos 9,Ambala,"67 Main Road, Ambala",30.397333,76.787492,Levothyroxine,40
+LifeCare Pharmacy 10,Karnal,"46 Main Road, Karnal",29.669825,76.988681,Atorvastatin,47
+Apollo Pharmacy 19,Yamunanagar,"104 Main Road, Yamunanagar",30.118813,77.278299,Montelukast,23
+Sharma Medical Store 9,Karnal,"45 Main Road, Karnal",29.680244,77.006468,Levothyroxine,82
+CarePlus Pharmacy 25,Panipat,"95 Main Road, Panipat",29.407366,76.978469,Amlodipine,33
+City Medicos 22,Karnal,"36 Main Road, Karnal",29.677973,76.989763,Cetrizine,88
+MedPlus Pharmacy 6,Delhi,"94 Main Road, Delhi",28.60991,77.221159,Dolo 650,82
+City Medicos 32,Panipat,"116 Main Road, Panipat",29.378121,76.943668,Pantoprazole,40
+Guardian Pharmacy 8,Panipat,"91 Main Road, Panipat",29.387488,76.94888,Atorvastatin,73
+CarePlus Pharmacy 12,Rajpura,"77 Main Road, Rajpura",30.468875,76.603181,Omeprazole,78
+Wellness Forever Pharmacy 33,Delhi,"4 Main Road, Delhi",28.620556,77.223044,Crocin,25
+Gupta Medicos 21,Karnal,"11 Main Road, Karnal",29.685741,76.99309,Aspirin,44
+Apollo Pharmacy 25,Patiala,"9 Main Road, Patiala",30.352409,76.404289,Diclofenac,97
+Gupta Medicos 22,Panipat,"116 Main Road, Panipat",29.404023,76.944957,Dolo 650,96
+CarePlus Pharmacy 47,Sonipat,"8 Main Road, Sonipat",29.007934,77.020701,Pantoprazole,68
+Apollo Pharmacy 13,Kurukshetra,"12 Main Road, Kurukshetra",29.98244,76.885847,Metformin,12
+CarePlus Pharmacy 47,Rajpura,"77 Main Road, Rajpura",30.464615,76.599384,Montelukast,21
+City Medicos 19,Rajpura,"21 Main Road, Rajpura",30.503301,76.613568,Augmentin,65
+Wellness Forever Pharmacy 31,Kurukshetra,"95 Main Road, Kurukshetra",29.981231,76.880424,Crocin,9
+CarePlus Pharmacy 11,Rajpura,"115 Main Road, Rajpura",30.46808,76.609911,Montelukast,56
+LifeCare Pharmacy 8,Chandigarh,"117 Main Road, Chandigarh",30.75107,76.767895,Montelukast,57
+MedPlus Pharmacy 9,Karnal,"98 Main Road, Karnal",29.689836,76.998263,Diclofenac,26
+CarePlus Pharmacy 11,Panipat,"72 Main Road, Panipat",29.376475,76.954801,Atorvastatin,32
+Sharma Medical Store 32,Chandigarh,"114 Main Road, Chandigarh",30.745205,76.770442,Augmentin,40
+Wellness Forever Pharmacy 26,Chandigarh,"112 Main Road, Chandigarh",30.749897,76.759541,Dolo 650,52
+CarePlus Pharmacy 1,Sonipat,"29 Main Road, Sonipat",29.002081,77.017942,Montelukast,43
+Sharma Medical Store 9,Panipat,"52 Main Road, Panipat",29.387443,76.967207,Augmentin,16
+HealthFirst Medicos 46,Panipat,"108 Main Road, Panipat",29.372661,76.964657,Diclofenac,34
+Guardian Pharmacy 22,Rajpura,"67 Main Road, Rajpura",30.492412,76.597288,Levothyroxine,90
+CarePlus Pharmacy 35,Sonipat,"40 Main Road, Sonipat",29.000145,77.029832,ORS,87
+CarePlus Pharmacy 22,Patiala,"20 Main Road, Patiala",30.357023,76.381295,Crocin,60
+Apollo Pharmacy 26,Sonipat,"7 Main Road, Sonipat",28.976402,77.032939,Metformin,14
+City Medicos 16,Kurukshetra,"35 Main Road, Kurukshetra",29.979126,76.879961,Diclofenac,15
+MedPlus Pharmacy 42,Chandigarh,"3 Main Road, Chandigarh",30.730256,76.775214,Levothyroxine,74
+Gupta Medicos 26,Delhi,"57 Main Road, Delhi",28.618515,77.189014,Levothyroxine,83
+CarePlus Pharmacy 17,Chandigarh,"85 Main Road, Chandigarh",30.749946,76.793575,Montelukast,11
+Sharma Medical Store 16,Patiala,"88 Main Road, Patiala",30.339538,76.405924,Dolo 650,96
+Apollo Pharmacy 9,Rajpura,"48 Main Road, Rajpura",30.474662,76.590258,Ibuprofen,22
+Guardian Pharmacy 46,Patiala,"108 Main Road, Patiala",30.338593,76.397974,Insulin,85
+Apollo Pharmacy 27,Panipat,"77 Main Road, Panipat",29.410855,76.954414,Omeprazole,4
+Apollo Pharmacy 5,Kurukshetra,"64 Main Road, Kurukshetra",29.96192,76.877811,Montelukast,55
+Wellness Forever Pharmacy 29,Rajpura,"115 Main Road, Rajpura",30.479916,76.607853,Dolo 650,43
+CarePlus Pharmacy 18,Chandigarh,"100 Main Road, Chandigarh",30.736718,76.782155,Augmentin,55
+City Medicos 6,Kurukshetra,"46 Main Road, Kurukshetra",29.978655,76.865656,Augmentin,71
+Wellness Forever Pharmacy 21,Ambala,"67 Main Road, Ambala",30.374774,76.792474,Cetrizine,88
+Gupta Medicos 40,Sonipat,"84 Main Road, Sonipat",28.996611,76.995279,Omeprazole,24
+Sharma Medical Store 23,Chandigarh,"4 Main Road, Chandigarh",30.717038,76.798667,Paracetamol,17
+LifeCare Pharmacy 5,Chandigarh,"82 Main Road, Chandigarh",30.718973,76.793373,Ibuprofen,1
+CarePlus Pharmacy 21,Patiala,"39 Main Road, Patiala",30.359094,76.373313,Crocin,46
+MedPlus Pharmacy 31,Kurukshetra,"64 Main Road, Kurukshetra",29.951747,76.888678,Diclofenac,96
+LifeCare Pharmacy 41,Patiala,"26 Main Road, Patiala",30.333117,76.397536,Diclofenac,18
+City Medicos 4,Delhi,"19 Main Road, Delhi",28.612384,77.212366,Aspirin,6
+MedPlus Pharmacy 28,Karnal,"57 Main Road, Karnal",29.687734,76.98324,Insulin,4
+Guardian Pharmacy 6,Ambala,"107 Main Road, Ambala",30.381048,76.777108,Dolo 650,5
+Sharma Medical Store 34,Kurukshetra,"40 Main Road, Kurukshetra",29.951415,76.885406,Pantoprazole,82
+Wellness Forever Pharmacy 46,Panipat,"90 Main Road, Panipat",29.407962,76.948977,Augmentin,38
+CarePlus Pharmacy 1,Patiala,"23 Main Road, Patiala",30.341772,76.376643,Paracetamol,91
+Apollo Pharmacy 8,Sonipat,"37 Main Road, Sonipat",29.002239,77.00238,Atorvastatin,14
+CarePlus Pharmacy 39,Delhi,"50 Main Road, Delhi",28.607609,77.196217,Metformin,8
+City Medicos 9,Kurukshetra,"26 Main Road, Kurukshetra",29.978194,76.870778,Ibuprofen,9
+HealthFirst Medicos 46,Delhi,"110 Main Road, Delhi",28.60224,77.203726,Augmentin,24
+Sharma Medical Store 5,Kurukshetra,"10 Main Road, Kurukshetra",29.986809,76.888127,ORS,78
+City Medicos 25,Panipat,"47 Main Road, Panipat",29.389027,76.982176,Insulin,35
+City Medicos 11,Yamunanagar,"10 Main Road, Yamunanagar",30.148345,77.263784,Metformin,62
+MedPlus Pharmacy 27,Chandigarh,"47 Main Road, Chandigarh",30.734181,76.773723,Amoxicillin,76
+City Medicos 23,Panipat,"34 Main Road, Panipat",29.377594,76.956929,Levothyroxine,15
+Gupta Medicos 1,Patiala,"23 Main Road, Patiala",30.349901,76.368373,Insulin,79
+City Medicos 17,Karnal,"10 Main Road, Karnal",29.685363,76.985091,Levothyroxine,43
+Wellness Forever Pharmacy 14,Panipat,"64 Main Road, Panipat",29.388621,76.981182,Augmentin,17
+Sharma Medical Store 32,Chandigarh,"1 Main Road, Chandigarh",30.717904,76.7632,Losartan,20
+CarePlus Pharmacy 2,Patiala,"42 Main Road, Patiala",30.344264,76.367024,Crocin,27
+City Medicos 34,Panipat,"90 Main Road, Panipat",29.398286,76.949287,Dolo 650,42
+MedPlus Pharmacy 37,Patiala,"20 Main Road, Patiala",30.326958,76.395957,Diclofenac,23
+City Medicos 15,Chandigarh,"8 Main Road, Chandigarh",30.73677,76.783726,Augmentin,46
+Apollo Pharmacy 15,Rajpura,"71 Main Road, Rajpura",30.481911,76.586888,Montelukast,57
+Guardian Pharmacy 39,Karnal,"24 Main Road, Karnal",29.69916,76.983341,ORS,31
+Gupta Medicos 36,Chandigarh,"81 Main Road, Chandigarh",30.72561,76.772254,ORS,87
+LifeCare Pharmacy 42,Patiala,"27 Main Road, Patiala",30.344141,76.373044,Levothyroxine,100
+Sharma Medical Store 25,Panipat,"15 Main Road, Panipat",29.39695,76.943555,Pantoprazole,69
+Sharma Medical Store 21,Delhi,"99 Main Road, Delhi",28.604509,77.221237,Dolo 650,20
+Sharma Medical Store 13,Ambala,"32 Main Road, Ambala",30.359002,76.780017,Aspirin,74
+MedPlus Pharmacy 28,Ambala,"88 Main Road, Ambala",30.370572,76.796183,Levothyroxine,16
+Wellness Forever Pharmacy 40,Ambala,"71 Main Road, Ambala",30.392229,76.756707,Montelukast,89
+CarePlus Pharmacy 27,Karnal,"61 Main Road, Karnal",29.667694,77.008048,Paracetamol,33
+HealthFirst Medicos 47,Karnal,"71 Main Road, Karnal",29.68683,76.992192,Losartan,75
+LifeCare Pharmacy 39,Yamunanagar,"49 Main Road, Yamunanagar",30.135522,77.264316,Paracetamol,59
+Gupta Medicos 18,Kurukshetra,"89 Main Road, Kurukshetra",29.983121,76.876773,Paracetamol,87
+Sharma Medical Store 42,Ambala,"42 Main Road, Ambala",30.362467,76.76316,Azithromycin,80
+Wellness Forever Pharmacy 49,Kurukshetra,"110 Main Road, Kurukshetra",29.985188,76.888574,Crocin,12
+CarePlus Pharmacy 31,Sonipat,"107 Main Road, Sonipat",28.981564,77.030684,ORS,59
+HealthFirst Medicos 43,Kurukshetra,"7 Main Road, Kurukshetra",29.954546,76.895568,Amoxicillin,52
+Gupta Medicos 45,Panipat,"63 Main Road, Panipat",29.387848,76.973748,Paracetamol,56
+Gupta Medicos 4,Yamunanagar,"111 Main Road, Yamunanagar",30.124882,77.286304,Diclofenac,94
+City Medicos 44,Yamunanagar,"119 Main Road, Yamunanagar",30.122201,77.283853,Atorvastatin,49
+Apollo Pharmacy 17,Chandigarh,"33 Main Road, Chandigarh",30.752829,76.772099,Omeprazole,68
+LifeCare Pharmacy 9,Ambala,"3 Main Road, Ambala",30.359605,76.782509,ORS,95
+MedPlus Pharmacy 35,Chandigarh,"110 Main Road, Chandigarh",30.718133,76.762254,Amlodipine,15
+City Medicos 19,Delhi,"107 Main Road, Delhi",28.598407,77.194159,Aspirin,55
+Gupta Medicos 13,Panipat,"90 Main Road, Panipat",29.381518,76.975953,Dolo 650,53
+Wellness Forever Pharmacy 39,Sonipat,"110 Main Road, Sonipat",28.979417,77.029984,Amlodipine,90
+Apollo Pharmacy 29,Karnal,"74 Main Road, Karnal",29.667521,76.980257,Crocin,76
+MedPlus Pharmacy 42,Patiala,"80 Main Road, Patiala",30.345799,76.368091,Omeprazole,99
+CarePlus Pharmacy 17,Sonipat,"38 Main Road, Sonipat",28.978229,77.026489,Ibuprofen,22
+CarePlus Pharmacy 8,Ambala,"11 Main Road, Ambala",30.363771,76.78702,Amoxicillin,36
+Gupta Medicos 50,Yamunanagar,"119 Main Road, Yamunanagar",30.122226,77.261902,Ibuprofen,75
+Sharma Medical Store 3,Karnal,"6 Main Road, Karnal",29.680018,76.984731,Amlodipine,21
+City Medicos 45,Ambala,"50 Main Road, Ambala",30.364148,76.791434,Aspirin,83
+Apollo Pharmacy,Rajpura,Patiala Road Rajpura,30.4833,76.5950,morphine,20
+Apollo Pharmacy,Rajpura,Patiala Road Rajpura,30.4833,76.5950,oxycodone,15
+Apollo Pharmacy,Rajpura,Patiala Road Rajpura,30.4833,76.5950,codeine sulfate,25
+MedPlus Pharmacy,Rajpura,Near Bus Stand Rajpura,30.4830,76.5940,norco oral,18
+MedPlus Pharmacy,Rajpura,Near Bus Stand Rajpura,30.4830,76.5940,amoxicillin,10
+MedPlus Pharmacy,Rajpura,Near Bus Stand Rajpura,30.4830,76.5940,paracetamol,30
+MedPlus Pharmacy,Rajpura,Near Bus Stand Rajpura,30.4830,76.5940,brufamol,30

@@ -1,0 +1,1001 @@
+medicine1,medicine2,severity,warning
+ibuprofen,aspirin,High,Risk of stomach bleeding
+ibuprofen,warfarin,Severe,High risk of internal bleeding
+paracetamol,alcohol,High,Risk of severe liver damage
+azithromycin,antacid,Moderate,May reduce antibiotic absorption
+aspirin,clopidogrel,High,Increased bleeding risk
+ibuprofen,prednisone,Moderate,Increased stomach irritation
+doxycycline,antacid,Moderate,Reduced antibiotic absorption
+metformin,alcohol,High,Risk of lactic acidosis
+atorvastatin,grapefruit,Moderate,Increases statin concentration
+warfarin,aspirin,Severe,Major bleeding risk
+glimepiride,amoxicillin,Moderate,May reduce drug absorption
+diazepam,clopidogrel,High,May increase blood levels of the drug
+omeprazole,ibuprofen,Moderate,Risk of severe allergic reaction
+azithromycin,atorvastatin,High,May increase blood levels of the drug
+digoxin,losartan,Moderate,Possible liver toxicity
+digoxin,isosorbide,Moderate,Increased bleeding risk
+azithromycin,glimepiride,Moderate,Increased bleeding risk
+paracetamol,pyrazinamide,Mild,May reduce drug absorption
+metformin,ibuprofen,Mild,Increased risk of dizziness or sedation
+ranitidine,morphine,Mild,Increased risk of dizziness or sedation
+omeprazole,insulin,Moderate,May reduce drug absorption
+losartan,isosorbide,Mild,May reduce drug absorption
+insulin,paracetamol,Severe,Increased risk of dizziness or sedation
+prednisone,insulin,Severe,Reduced effectiveness of medication
+levothyroxine,digoxin,High,Reduced effectiveness of medication
+spironolactone,fluoxetine,Severe,Risk of kidney damage
+tramadol,losartan,Moderate,Possible heart rhythm disturbance
+ketoconazole,ranitidine,Moderate,Possible heart rhythm disturbance
+morphine,escitalopram,Moderate,May reduce drug absorption
+rifampicin,losartan,Moderate,Increased risk of dizziness or sedation
+azithromycin,insulin,Moderate,Reduced effectiveness of medication
+sertraline,ciprofloxacin,Mild,May reduce drug absorption
+digoxin,spironolactone,Severe,Possible liver toxicity
+digoxin,levothyroxine,Moderate,Possible liver toxicity
+telmisartan,amlodipine,Severe,Increased bleeding risk
+furosemide,ranitidine,Moderate,Reduced effectiveness of medication
+nitroglycerin,ethambutol,Mild,Reduced effectiveness of medication
+fluoxetine,paracetamol,High,Risk of severe allergic reaction
+levothyroxine,alprazolam,Severe,Reduced effectiveness of medication
+nitroglycerin,warfarin,Moderate,Risk of stomach irritation
+escitalopram,rifampicin,Mild,Risk of stomach irritation
+digoxin,loratadine,Severe,Increased bleeding risk
+rifampicin,aspirin,High,May reduce drug absorption
+nitroglycerin,ciprofloxacin,Severe,Increased bleeding risk
+prednisone,atorvastatin,High,Risk of kidney damage
+codeine,metformin,Mild,Increased risk of dizziness or sedation
+furosemide,tramadol,Severe,Increased bleeding risk
+amoxicillin,glimepiride,Mild,Increased risk of dizziness or sedation
+insulin,ethambutol,Severe,Reduced effectiveness of medication
+atenolol,pyrazinamide,Moderate,May reduce drug absorption
+loratadine,morphine,Moderate,May increase blood levels of the drug
+ranitidine,tramadol,Mild,May reduce drug absorption
+warfarin,ethambutol,Mild,Risk of severe allergic reaction
+morphine,ranitidine,High,May reduce drug absorption
+nitroglycerin,isosorbide,High,Possible heart rhythm disturbance
+tramadol,ramipril,Mild,May increase blood levels of the drug
+amlodipine,losartan,Mild,Increased bleeding risk
+metformin,telmisartan,Severe,Increased risk of dizziness or sedation
+azithromycin,pantoprazole,High,Reduced effectiveness of medication
+metformin,codeine,Moderate,Increased bleeding risk
+fluconazole,nitroglycerin,High,Risk of severe allergic reaction
+pantoprazole,nitroglycerin,Mild,May increase blood levels of the drug
+atenolol,paracetamol,High,Risk of stomach irritation
+glimepiride,atenolol,Mild,May reduce drug absorption
+escitalopram,loratadine,High,Risk of severe allergic reaction
+isoniazid,morphine,Moderate,Risk of severe allergic reaction
+isoniazid,telmisartan,Severe,Possible liver toxicity
+ibuprofen,glimepiride,Mild,Risk of severe allergic reaction
+atenolol,ciprofloxacin,Severe,Risk of kidney damage
+omeprazole,doxycycline,Moderate,Risk of severe allergic reaction
+amlodipine,losartan,Moderate,May reduce drug absorption
+prednisone,ramipril,Moderate,Risk of severe allergic reaction
+pyrazinamide,metformin,Mild,Increased risk of dizziness or sedation
+amoxicillin,amlodipine,High,Increased bleeding risk
+spironolactone,montelukast,Mild,Risk of stomach irritation
+ketoconazole,nitroglycerin,Mild,Risk of severe allergic reaction
+isoniazid,digoxin,Mild,Increased risk of dizziness or sedation
+glimepiride,aspirin,High,Possible liver toxicity
+digoxin,insulin,Severe,Risk of kidney damage
+prednisone,fluoxetine,Mild,Reduced effectiveness of medication
+paracetamol,sertraline,Moderate,Increased risk of dizziness or sedation
+cetirizine,fluoxetine,Moderate,May increase blood levels of the drug
+furosemide,telmisartan,Severe,Reduced effectiveness of medication
+ramipril,ibuprofen,Mild,Possible liver toxicity
+ethambutol,omeprazole,Severe,Increased bleeding risk
+ketoconazole,aspirin,Severe,Risk of kidney damage
+spironolactone,ramipril,High,May increase blood levels of the drug
+telmisartan,nitroglycerin,High,Risk of stomach irritation
+omeprazole,azithromycin,High,Possible liver toxicity
+isoniazid,ciprofloxacin,Mild,May increase blood levels of the drug
+isoniazid,morphine,Mild,Possible heart rhythm disturbance
+ibuprofen,ramipril,Mild,Risk of severe allergic reaction
+amoxicillin,digoxin,Severe,Risk of stomach irritation
+furosemide,isosorbide,Moderate,Risk of severe allergic reaction
+tramadol,morphine,Moderate,Possible liver toxicity
+sertraline,levothyroxine,Moderate,Risk of stomach irritation
+escitalopram,clopidogrel,High,May increase blood levels of the drug
+metformin,warfarin,Mild,May reduce drug absorption
+nitroglycerin,ranitidine,High,Reduced effectiveness of medication
+azithromycin,digoxin,High,Risk of stomach irritation
+isosorbide,doxycycline,Moderate,Possible heart rhythm disturbance
+codeine,clopidogrel,High,Risk of stomach irritation
+ibuprofen,loratadine,Moderate,Increased risk of dizziness or sedation
+loratadine,ibuprofen,Severe,Risk of severe allergic reaction
+alprazolam,digoxin,Mild,Increased bleeding risk
+ibuprofen,telmisartan,High,May reduce drug absorption
+isosorbide,diazepam,Mild,Risk of severe allergic reaction
+warfarin,morphine,High,May reduce drug absorption
+aspirin,paracetamol,Severe,Possible liver toxicity
+warfarin,omeprazole,Mild,Risk of stomach irritation
+telmisartan,isoniazid,Severe,Possible liver toxicity
+codeine,pyrazinamide,High,Increased bleeding risk
+amlodipine,escitalopram,Severe,Reduced effectiveness of medication
+telmisartan,losartan,Moderate,Risk of stomach irritation
+nitroglycerin,codeine,High,Increased risk of dizziness or sedation
+ramipril,isoniazid,Severe,Risk of stomach irritation
+omeprazole,ketoconazole,Moderate,Risk of stomach irritation
+omeprazole,amlodipine,Severe,May increase blood levels of the drug
+furosemide,ramipril,Moderate,May reduce drug absorption
+loratadine,atenolol,Severe,Risk of stomach irritation
+atenolol,furosemide,High,Increased bleeding risk
+levothyroxine,fluconazole,Moderate,Risk of kidney damage
+isosorbide,telmisartan,Mild,Reduced effectiveness of medication
+ranitidine,ketoconazole,Moderate,Increased risk of dizziness or sedation
+losartan,atorvastatin,High,May reduce drug absorption
+rifampicin,ciprofloxacin,Severe,Increased risk of dizziness or sedation
+nitroglycerin,ramipril,Severe,May increase blood levels of the drug
+alprazolam,fluconazole,High,Risk of kidney damage
+amoxicillin,cetirizine,High,Possible heart rhythm disturbance
+azithromycin,metformin,Moderate,Increased risk of dizziness or sedation
+rifampicin,omeprazole,Moderate,May increase blood levels of the drug
+alprazolam,azithromycin,High,Increased risk of dizziness or sedation
+azithromycin,ketoconazole,High,May increase blood levels of the drug
+escitalopram,cetirizine,High,Possible heart rhythm disturbance
+codeine,telmisartan,Moderate,May increase blood levels of the drug
+ramipril,digoxin,Severe,Increased bleeding risk
+ibuprofen,morphine,Moderate,Increased risk of dizziness or sedation
+isoniazid,levothyroxine,High,Reduced effectiveness of medication
+digoxin,metformin,High,Possible liver toxicity
+ranitidine,omeprazole,Mild,Risk of kidney damage
+escitalopram,isosorbide,Moderate,Increased bleeding risk
+atorvastatin,sertraline,High,Possible heart rhythm disturbance
+atorvastatin,rifampicin,Mild,Increased bleeding risk
+cetirizine,levothyroxine,High,Reduced effectiveness of medication
+morphine,clopidogrel,Mild,May reduce drug absorption
+omeprazole,montelukast,Moderate,Reduced effectiveness of medication
+ciprofloxacin,morphine,Mild,Risk of kidney damage
+nitroglycerin,paracetamol,Severe,May reduce drug absorption
+rifampicin,doxycycline,Moderate,Possible liver toxicity
+nitroglycerin,loratadine,Mild,Possible heart rhythm disturbance
+insulin,nitroglycerin,Mild,Risk of stomach irritation
+montelukast,spironolactone,Mild,Increased bleeding risk
+ranitidine,alprazolam,Moderate,Risk of severe allergic reaction
+paracetamol,codeine,High,Increased risk of dizziness or sedation
+doxycycline,omeprazole,Severe,Increased risk of dizziness or sedation
+metformin,aspirin,High,Risk of severe allergic reaction
+ketoconazole,alprazolam,Severe,Reduced effectiveness of medication
+clopidogrel,fluconazole,Mild,Increased risk of dizziness or sedation
+montelukast,sertraline,Moderate,May increase blood levels of the drug
+paracetamol,alprazolam,High,Possible heart rhythm disturbance
+ramipril,montelukast,High,Increased risk of dizziness or sedation
+paracetamol,rifampicin,Severe,Possible heart rhythm disturbance
+montelukast,cetirizine,Mild,Increased risk of dizziness or sedation
+ibuprofen,sertraline,Moderate,May increase blood levels of the drug
+azithromycin,atorvastatin,Moderate,May reduce drug absorption
+ethambutol,azithromycin,Moderate,Risk of kidney damage
+warfarin,ranitidine,Moderate,Possible liver toxicity
+codeine,metformin,Severe,Reduced effectiveness of medication
+ethambutol,glimepiride,Severe,Risk of kidney damage
+losartan,fluoxetine,Mild,May increase blood levels of the drug
+ibuprofen,montelukast,Mild,Increased bleeding risk
+telmisartan,amoxicillin,Moderate,Risk of severe allergic reaction
+alprazolam,nitroglycerin,Severe,May reduce drug absorption
+alprazolam,amoxicillin,High,Increased bleeding risk
+amoxicillin,losartan,Mild,Increased bleeding risk
+spironolactone,doxycycline,Mild,Possible heart rhythm disturbance
+pyrazinamide,prednisone,High,Risk of severe allergic reaction
+warfarin,digoxin,High,Risk of severe allergic reaction
+clopidogrel,alprazolam,Severe,Risk of kidney damage
+morphine,ketoconazole,Moderate,May reduce drug absorption
+cetirizine,fluoxetine,Mild,Reduced effectiveness of medication
+amoxicillin,levothyroxine,High,Increased risk of dizziness or sedation
+isoniazid,loratadine,Mild,Possible heart rhythm disturbance
+diazepam,tramadol,Mild,Increased risk of dizziness or sedation
+omeprazole,clopidogrel,High,Reduced effectiveness of medication
+ciprofloxacin,isosorbide,Severe,May increase blood levels of the drug
+telmisartan,ibuprofen,Moderate,Increased bleeding risk
+cetirizine,omeprazole,Moderate,Risk of severe allergic reaction
+pyrazinamide,ciprofloxacin,Mild,May increase blood levels of the drug
+metformin,amoxicillin,Severe,Reduced effectiveness of medication
+pantoprazole,amlodipine,Mild,Possible heart rhythm disturbance
+amoxicillin,omeprazole,Mild,May increase blood levels of the drug
+atenolol,codeine,Severe,Reduced effectiveness of medication
+omeprazole,escitalopram,High,Possible heart rhythm disturbance
+losartan,codeine,Moderate,Reduced effectiveness of medication
+doxycycline,montelukast,High,May increase blood levels of the drug
+sertraline,furosemide,Mild,Possible heart rhythm disturbance
+montelukast,doxycycline,Mild,Increased risk of dizziness or sedation
+pantoprazole,ibuprofen,High,May reduce drug absorption
+clopidogrel,spironolactone,Moderate,Possible liver toxicity
+loratadine,codeine,Mild,Possible liver toxicity
+ranitidine,azithromycin,Mild,May increase blood levels of the drug
+telmisartan,ketoconazole,High,Increased risk of dizziness or sedation
+ramipril,amlodipine,Moderate,Increased bleeding risk
+ethambutol,digoxin,Mild,Possible liver toxicity
+doxycycline,pyrazinamide,Severe,Reduced effectiveness of medication
+cetirizine,codeine,Moderate,Increased bleeding risk
+ibuprofen,aspirin,Moderate,Possible liver toxicity
+nitroglycerin,sertraline,High,May increase blood levels of the drug
+spironolactone,furosemide,Moderate,Reduced effectiveness of medication
+fluconazole,tramadol,Mild,May reduce drug absorption
+warfarin,montelukast,Mild,Risk of kidney damage
+losartan,glimepiride,Moderate,Increased bleeding risk
+tramadol,fluoxetine,High,May increase blood levels of the drug
+rifampicin,telmisartan,Moderate,Possible liver toxicity
+pyrazinamide,glimepiride,High,Risk of stomach irritation
+rifampicin,metformin,High,Risk of kidney damage
+furosemide,insulin,Mild,Risk of stomach irritation
+sertraline,spironolactone,Severe,Increased bleeding risk
+ketoconazole,pantoprazole,Moderate,Possible liver toxicity
+nitroglycerin,atenolol,Severe,Possible heart rhythm disturbance
+atorvastatin,ibuprofen,Severe,Increased bleeding risk
+doxycycline,losartan,Moderate,May increase blood levels of the drug
+ethambutol,losartan,Moderate,Risk of kidney damage
+fluoxetine,ciprofloxacin,Moderate,May increase blood levels of the drug
+omeprazole,pantoprazole,Moderate,Risk of stomach irritation
+escitalopram,glimepiride,Moderate,May reduce drug absorption
+diazepam,prednisone,Mild,Risk of severe allergic reaction
+metformin,pyrazinamide,Severe,Risk of stomach irritation
+levothyroxine,amlodipine,Mild,Risk of severe allergic reaction
+metformin,pantoprazole,Severe,May increase blood levels of the drug
+isoniazid,tramadol,Severe,Increased bleeding risk
+paracetamol,rifampicin,Moderate,Risk of severe allergic reaction
+atorvastatin,ramipril,High,Increased risk of dizziness or sedation
+azithromycin,montelukast,Mild,Increased risk of dizziness or sedation
+amlodipine,metformin,Moderate,Increased bleeding risk
+losartan,prednisone,Mild,May increase blood levels of the drug
+losartan,paracetamol,Moderate,Possible liver toxicity
+azithromycin,codeine,Mild,May increase blood levels of the drug
+digoxin,ibuprofen,High,Increased bleeding risk
+isosorbide,rifampicin,Moderate,Risk of stomach irritation
+alprazolam,isoniazid,Severe,Risk of kidney damage
+diazepam,ethambutol,Severe,Increased bleeding risk
+codeine,levothyroxine,Severe,May reduce drug absorption
+amlodipine,spironolactone,Mild,Risk of stomach irritation
+morphine,atorvastatin,Severe,Possible heart rhythm disturbance
+diazepam,paracetamol,Moderate,Risk of kidney damage
+ibuprofen,spironolactone,High,Risk of severe allergic reaction
+telmisartan,levothyroxine,High,Increased bleeding risk
+codeine,aspirin,Moderate,Increased bleeding risk
+isosorbide,ketoconazole,High,Risk of kidney damage
+telmisartan,digoxin,Severe,Possible heart rhythm disturbance
+omeprazole,isosorbide,Mild,Possible liver toxicity
+clopidogrel,levothyroxine,Moderate,Increased risk of dizziness or sedation
+metformin,escitalopram,Severe,Increased bleeding risk
+escitalopram,atenolol,Mild,May increase blood levels of the drug
+ranitidine,diazepam,High,Risk of stomach irritation
+loratadine,ramipril,Moderate,May reduce drug absorption
+amoxicillin,spironolactone,Severe,May increase blood levels of the drug
+morphine,nitroglycerin,Mild,Risk of stomach irritation
+amlodipine,ethambutol,Severe,Risk of stomach irritation
+azithromycin,tramadol,Severe,Risk of kidney damage
+omeprazole,montelukast,Severe,Reduced effectiveness of medication
+azithromycin,ketoconazole,Mild,Increased risk of dizziness or sedation
+sertraline,loratadine,Severe,Risk of severe allergic reaction
+ibuprofen,telmisartan,High,May increase blood levels of the drug
+prednisone,alprazolam,Mild,Risk of stomach irritation
+isosorbide,tramadol,Mild,May increase blood levels of the drug
+aspirin,isoniazid,Mild,May reduce drug absorption
+omeprazole,ramipril,High,Risk of severe allergic reaction
+furosemide,atenolol,High,Possible liver toxicity
+pyrazinamide,rifampicin,Severe,May reduce drug absorption
+loratadine,ranitidine,High,May reduce drug absorption
+sertraline,spironolactone,Moderate,Reduced effectiveness of medication
+aspirin,prednisone,Mild,Increased bleeding risk
+aspirin,ketoconazole,Moderate,Risk of kidney damage
+losartan,codeine,Mild,Risk of severe allergic reaction
+ciprofloxacin,montelukast,Moderate,Risk of severe allergic reaction
+levothyroxine,cetirizine,High,May reduce drug absorption
+loratadine,paracetamol,Moderate,Risk of stomach irritation
+cetirizine,diazepam,Mild,Risk of severe allergic reaction
+prednisone,aspirin,Mild,Possible liver toxicity
+paracetamol,losartan,Mild,May reduce drug absorption
+prednisone,clopidogrel,Moderate,Increased bleeding risk
+pantoprazole,ranitidine,Moderate,Reduced effectiveness of medication
+levothyroxine,morphine,High,Risk of stomach irritation
+cetirizine,warfarin,Mild,May reduce drug absorption
+amlodipine,azithromycin,High,May increase blood levels of the drug
+ciprofloxacin,nitroglycerin,Severe,Risk of severe allergic reaction
+amoxicillin,alprazolam,High,Reduced effectiveness of medication
+cetirizine,diazepam,High,Risk of severe allergic reaction
+morphine,pantoprazole,Mild,Possible heart rhythm disturbance
+sertraline,ranitidine,Mild,May reduce drug absorption
+isoniazid,fluconazole,Severe,Increased risk of dizziness or sedation
+ciprofloxacin,furosemide,Severe,Risk of severe allergic reaction
+azithromycin,paracetamol,Severe,Reduced effectiveness of medication
+prednisone,azithromycin,High,Increased bleeding risk
+ethambutol,spironolactone,Moderate,May reduce drug absorption
+diazepam,atenolol,Mild,Possible liver toxicity
+pantoprazole,prednisone,High,Reduced effectiveness of medication
+ramipril,amlodipine,Severe,Increased risk of dizziness or sedation
+ciprofloxacin,sertraline,High,Reduced effectiveness of medication
+losartan,tramadol,High,Increased risk of dizziness or sedation
+doxycycline,fluoxetine,High,Risk of kidney damage
+rifampicin,insulin,Severe,Increased bleeding risk
+isosorbide,clopidogrel,Moderate,Risk of stomach irritation
+pantoprazole,cetirizine,High,May increase blood levels of the drug
+cetirizine,isosorbide,High,Increased bleeding risk
+clopidogrel,levothyroxine,High,Possible liver toxicity
+isosorbide,alprazolam,High,Possible liver toxicity
+losartan,tramadol,Moderate,Increased risk of dizziness or sedation
+escitalopram,ibuprofen,Severe,Possible heart rhythm disturbance
+pyrazinamide,doxycycline,Mild,Risk of severe allergic reaction
+diazepam,ethambutol,High,May reduce drug absorption
+pyrazinamide,morphine,Moderate,Risk of stomach irritation
+fluoxetine,insulin,High,May increase blood levels of the drug
+sertraline,codeine,Severe,Increased bleeding risk
+atorvastatin,rifampicin,Severe,Risk of kidney damage
+isoniazid,omeprazole,High,Risk of severe allergic reaction
+fluoxetine,pantoprazole,High,Risk of severe allergic reaction
+tramadol,furosemide,Mild,Increased risk of dizziness or sedation
+fluconazole,nitroglycerin,Severe,Risk of kidney damage
+tramadol,escitalopram,Moderate,Increased risk of dizziness or sedation
+amoxicillin,insulin,Severe,Possible liver toxicity
+levothyroxine,furosemide,Moderate,May reduce drug absorption
+nitroglycerin,pantoprazole,High,Possible liver toxicity
+isoniazid,atenolol,Severe,May reduce drug absorption
+amoxicillin,furosemide,Moderate,Increased bleeding risk
+glimepiride,omeprazole,Moderate,May reduce drug absorption
+spironolactone,alprazolam,High,Reduced effectiveness of medication
+telmisartan,rifampicin,Mild,May reduce drug absorption
+ciprofloxacin,diazepam,Mild,Risk of severe allergic reaction
+warfarin,rifampicin,Mild,Reduced effectiveness of medication
+amlodipine,levothyroxine,Mild,Risk of stomach irritation
+aspirin,fluoxetine,High,Increased bleeding risk
+insulin,omeprazole,Mild,Increased bleeding risk
+ketoconazole,pantoprazole,Severe,Risk of severe allergic reaction
+sertraline,montelukast,Severe,Risk of stomach irritation
+insulin,aspirin,Severe,Risk of severe allergic reaction
+metformin,doxycycline,Mild,Possible liver toxicity
+isoniazid,azithromycin,High,Possible heart rhythm disturbance
+codeine,glimepiride,Moderate,Possible liver toxicity
+ciprofloxacin,omeprazole,Severe,Risk of kidney damage
+levothyroxine,loratadine,Moderate,Possible heart rhythm disturbance
+fluconazole,ketoconazole,Moderate,Possible heart rhythm disturbance
+ketoconazole,clopidogrel,Mild,Possible heart rhythm disturbance
+ibuprofen,alprazolam,Moderate,Risk of stomach irritation
+amoxicillin,codeine,High,Possible heart rhythm disturbance
+warfarin,fluoxetine,Mild,Risk of stomach irritation
+rifampicin,loratadine,High,Risk of stomach irritation
+morphine,doxycycline,Moderate,Reduced effectiveness of medication
+spironolactone,isosorbide,Mild,Risk of kidney damage
+paracetamol,losartan,Moderate,Possible liver toxicity
+clopidogrel,pantoprazole,Moderate,Possible liver toxicity
+levothyroxine,clopidogrel,Severe,Risk of kidney damage
+tramadol,pantoprazole,Mild,Reduced effectiveness of medication
+cetirizine,tramadol,Mild,May reduce drug absorption
+amoxicillin,losartan,High,Possible liver toxicity
+ramipril,loratadine,Moderate,Risk of stomach irritation
+azithromycin,escitalopram,Severe,Risk of severe allergic reaction
+sertraline,digoxin,Mild,Risk of kidney damage
+codeine,fluoxetine,Mild,Increased risk of dizziness or sedation
+alprazolam,ethambutol,Severe,May reduce drug absorption
+pyrazinamide,paracetamol,Mild,May reduce drug absorption
+diazepam,levothyroxine,Severe,Risk of kidney damage
+levothyroxine,escitalopram,High,May increase blood levels of the drug
+sertraline,tramadol,Moderate,Risk of severe allergic reaction
+levothyroxine,isosorbide,Moderate,May increase blood levels of the drug
+glimepiride,isosorbide,Mild,Risk of kidney damage
+amlodipine,ranitidine,Severe,Risk of severe allergic reaction
+telmisartan,doxycycline,High,May increase blood levels of the drug
+loratadine,fluoxetine,High,Increased risk of dizziness or sedation
+digoxin,metformin,Moderate,May increase blood levels of the drug
+insulin,ibuprofen,High,Risk of stomach irritation
+morphine,clopidogrel,Severe,Risk of severe allergic reaction
+montelukast,sertraline,High,Reduced effectiveness of medication
+clopidogrel,tramadol,High,Risk of stomach irritation
+doxycycline,alprazolam,High,May increase blood levels of the drug
+fluconazole,aspirin,Moderate,Possible heart rhythm disturbance
+codeine,isosorbide,Severe,Possible heart rhythm disturbance
+omeprazole,ibuprofen,Mild,Reduced effectiveness of medication
+nitroglycerin,metformin,Moderate,Risk of severe allergic reaction
+atorvastatin,isoniazid,Moderate,May reduce drug absorption
+warfarin,amlodipine,Moderate,Reduced effectiveness of medication
+atenolol,ibuprofen,Moderate,Risk of stomach irritation
+clopidogrel,morphine,High,Risk of stomach irritation
+metformin,losartan,Moderate,Reduced effectiveness of medication
+ranitidine,alprazolam,Mild,Risk of stomach irritation
+sertraline,fluoxetine,Mild,Possible heart rhythm disturbance
+glimepiride,warfarin,High,Risk of stomach irritation
+prednisone,glimepiride,High,May reduce drug absorption
+levothyroxine,isosorbide,Mild,May reduce drug absorption
+amlodipine,diazepam,Mild,May increase blood levels of the drug
+sertraline,digoxin,Moderate,May reduce drug absorption
+clopidogrel,escitalopram,Mild,Reduced effectiveness of medication
+paracetamol,montelukast,High,Risk of stomach irritation
+insulin,doxycycline,Severe,Increased bleeding risk
+warfarin,ketoconazole,High,May increase blood levels of the drug
+spironolactone,codeine,Moderate,Reduced effectiveness of medication
+diazepam,warfarin,Moderate,Reduced effectiveness of medication
+ciprofloxacin,pantoprazole,Moderate,Possible heart rhythm disturbance
+furosemide,metformin,Mild,May reduce drug absorption
+nitroglycerin,omeprazole,Moderate,Risk of severe allergic reaction
+tramadol,ketoconazole,Mild,Risk of kidney damage
+spironolactone,tramadol,Mild,May increase blood levels of the drug
+loratadine,alprazolam,Moderate,Increased bleeding risk
+amoxicillin,ethambutol,Mild,May increase blood levels of the drug
+ketoconazole,montelukast,Severe,Risk of stomach irritation
+isosorbide,loratadine,Severe,Risk of stomach irritation
+furosemide,rifampicin,Mild,Reduced effectiveness of medication
+ciprofloxacin,amlodipine,Severe,Possible liver toxicity
+isoniazid,loratadine,Severe,Risk of stomach irritation
+diazepam,ethambutol,Mild,Increased bleeding risk
+furosemide,doxycycline,Moderate,May increase blood levels of the drug
+pyrazinamide,azithromycin,Moderate,May increase blood levels of the drug
+montelukast,ketoconazole,Moderate,Risk of kidney damage
+warfarin,ciprofloxacin,Moderate,Possible liver toxicity
+diazepam,isoniazid,Moderate,Risk of severe allergic reaction
+morphine,isoniazid,Mild,Increased risk of dizziness or sedation
+tramadol,losartan,Severe,Risk of severe allergic reaction
+morphine,atorvastatin,Moderate,Reduced effectiveness of medication
+codeine,digoxin,Moderate,May increase blood levels of the drug
+amlodipine,nitroglycerin,High,Risk of kidney damage
+losartan,ketoconazole,Mild,Possible heart rhythm disturbance
+clopidogrel,glimepiride,Severe,Increased bleeding risk
+nitroglycerin,warfarin,Moderate,Possible liver toxicity
+furosemide,rifampicin,High,Risk of severe allergic reaction
+cetirizine,ethambutol,High,Possible heart rhythm disturbance
+prednisone,amlodipine,Moderate,Risk of kidney damage
+omeprazole,losartan,Moderate,Risk of stomach irritation
+ramipril,fluconazole,Moderate,Risk of kidney damage
+aspirin,ciprofloxacin,Moderate,Increased risk of dizziness or sedation
+glimepiride,levothyroxine,Severe,Risk of kidney damage
+fluoxetine,furosemide,Moderate,Possible liver toxicity
+fluconazole,loratadine,High,Reduced effectiveness of medication
+nitroglycerin,insulin,High,Possible heart rhythm disturbance
+atorvastatin,digoxin,Mild,Increased bleeding risk
+doxycycline,ethambutol,Moderate,May reduce drug absorption
+fluoxetine,sertraline,Severe,Risk of stomach irritation
+ciprofloxacin,metformin,Mild,Reduced effectiveness of medication
+losartan,metformin,Severe,May increase blood levels of the drug
+nitroglycerin,montelukast,High,Increased risk of dizziness or sedation
+diazepam,aspirin,High,Risk of severe allergic reaction
+isosorbide,morphine,High,Reduced effectiveness of medication
+warfarin,ramipril,Severe,Increased risk of dizziness or sedation
+isoniazid,azithromycin,Severe,Risk of kidney damage
+sertraline,montelukast,Mild,Risk of stomach irritation
+paracetamol,pantoprazole,Mild,May increase blood levels of the drug
+ciprofloxacin,montelukast,Severe,Increased risk of dizziness or sedation
+nitroglycerin,atenolol,Mild,Possible heart rhythm disturbance
+clopidogrel,paracetamol,High,Reduced effectiveness of medication
+cetirizine,glimepiride,Moderate,Risk of stomach irritation
+ciprofloxacin,paracetamol,High,Increased bleeding risk
+rifampicin,aspirin,Mild,Possible liver toxicity
+fluoxetine,alprazolam,High,Risk of stomach irritation
+fluconazole,ranitidine,Moderate,Reduced effectiveness of medication
+spironolactone,levothyroxine,Moderate,Risk of severe allergic reaction
+diazepam,prednisone,Moderate,Risk of kidney damage
+ramipril,isoniazid,Mild,Risk of stomach irritation
+amlodipine,isoniazid,High,Risk of kidney damage
+ibuprofen,rifampicin,Mild,Possible liver toxicity
+amoxicillin,aspirin,Mild,Possible heart rhythm disturbance
+insulin,pyrazinamide,High,Reduced effectiveness of medication
+prednisone,fluoxetine,Moderate,May reduce drug absorption
+isoniazid,spironolactone,High,May increase blood levels of the drug
+nitroglycerin,amlodipine,Mild,Possible heart rhythm disturbance
+furosemide,azithromycin,High,Increased bleeding risk
+insulin,paracetamol,High,Risk of stomach irritation
+warfarin,doxycycline,Severe,Increased risk of dizziness or sedation
+ethambutol,nitroglycerin,High,Risk of stomach irritation
+isosorbide,ciprofloxacin,Mild,Increased bleeding risk
+tramadol,montelukast,Mild,Risk of stomach irritation
+doxycycline,insulin,Mild,Increased risk of dizziness or sedation
+furosemide,loratadine,Severe,Possible liver toxicity
+morphine,amlodipine,Moderate,Risk of severe allergic reaction
+pyrazinamide,ranitidine,High,Risk of kidney damage
+prednisone,alprazolam,Mild,Reduced effectiveness of medication
+digoxin,ibuprofen,Moderate,Increased risk of dizziness or sedation
+fluoxetine,doxycycline,Moderate,Risk of stomach irritation
+spironolactone,furosemide,Moderate,Risk of stomach irritation
+nitroglycerin,atenolol,Moderate,Risk of kidney damage
+loratadine,isosorbide,High,Reduced effectiveness of medication
+codeine,atenolol,Severe,May increase blood levels of the drug
+fluconazole,ranitidine,High,Possible liver toxicity
+isoniazid,amlodipine,High,Risk of stomach irritation
+ibuprofen,escitalopram,High,Possible liver toxicity
+isoniazid,clopidogrel,Severe,Risk of severe allergic reaction
+pyrazinamide,isosorbide,Moderate,Possible liver toxicity
+ramipril,ketoconazole,Severe,Possible heart rhythm disturbance
+nitroglycerin,pyrazinamide,High,Possible liver toxicity
+fluoxetine,loratadine,Moderate,Risk of severe allergic reaction
+paracetamol,doxycycline,Mild,Possible heart rhythm disturbance
+amoxicillin,omeprazole,Mild,May reduce drug absorption
+ranitidine,ketoconazole,High,Risk of stomach irritation
+warfarin,losartan,Moderate,Risk of severe allergic reaction
+spironolactone,nitroglycerin,High,May increase blood levels of the drug
+diazepam,cetirizine,Severe,Risk of stomach irritation
+doxycycline,fluconazole,Mild,May reduce drug absorption
+paracetamol,glimepiride,Severe,Reduced effectiveness of medication
+clopidogrel,ethambutol,Severe,Possible heart rhythm disturbance
+amoxicillin,atenolol,Mild,Risk of severe allergic reaction
+escitalopram,ramipril,Severe,Increased bleeding risk
+losartan,doxycycline,Moderate,May reduce drug absorption
+diazepam,furosemide,Severe,Possible heart rhythm disturbance
+levothyroxine,omeprazole,Moderate,May reduce drug absorption
+ramipril,metformin,Severe,May reduce drug absorption
+rifampicin,diazepam,Severe,May reduce drug absorption
+sertraline,azithromycin,Moderate,Risk of stomach irritation
+morphine,sertraline,Mild,Increased bleeding risk
+digoxin,isosorbide,Mild,May reduce drug absorption
+glimepiride,azithromycin,High,Possible liver toxicity
+pantoprazole,tramadol,Mild,Increased bleeding risk
+alprazolam,spironolactone,High,Risk of stomach irritation
+ketoconazole,aspirin,Severe,May increase blood levels of the drug
+ciprofloxacin,levothyroxine,Moderate,Risk of kidney damage
+furosemide,ketoconazole,Moderate,Risk of stomach irritation
+warfarin,insulin,Mild,Reduced effectiveness of medication
+pantoprazole,azithromycin,Mild,Possible liver toxicity
+fluoxetine,alprazolam,Severe,Increased bleeding risk
+sertraline,insulin,Mild,May reduce drug absorption
+amoxicillin,isosorbide,Severe,Possible heart rhythm disturbance
+isosorbide,glimepiride,Severe,May reduce drug absorption
+ramipril,escitalopram,High,May reduce drug absorption
+escitalopram,atenolol,Moderate,May reduce drug absorption
+doxycycline,atorvastatin,High,Reduced effectiveness of medication
+ketoconazole,paracetamol,High,May increase blood levels of the drug
+omeprazole,ethambutol,Severe,Reduced effectiveness of medication
+clopidogrel,warfarin,Severe,Risk of kidney damage
+omeprazole,insulin,Moderate,Risk of severe allergic reaction
+pyrazinamide,amoxicillin,Severe,Risk of severe allergic reaction
+loratadine,codeine,Severe,Possible heart rhythm disturbance
+insulin,escitalopram,High,Increased risk of dizziness or sedation
+ibuprofen,furosemide,High,Reduced effectiveness of medication
+ibuprofen,amlodipine,Severe,Possible heart rhythm disturbance
+morphine,digoxin,High,Possible heart rhythm disturbance
+fluoxetine,loratadine,High,Risk of severe allergic reaction
+metformin,atorvastatin,High,May reduce drug absorption
+warfarin,glimepiride,Moderate,Reduced effectiveness of medication
+morphine,fluconazole,Severe,Reduced effectiveness of medication
+ibuprofen,warfarin,Mild,May reduce drug absorption
+insulin,prednisone,Severe,Possible liver toxicity
+clopidogrel,codeine,Severe,Reduced effectiveness of medication
+sertraline,pyrazinamide,Severe,May increase blood levels of the drug
+diazepam,metformin,Severe,Risk of kidney damage
+amlodipine,digoxin,Severe,May increase blood levels of the drug
+telmisartan,escitalopram,Moderate,Reduced effectiveness of medication
+metformin,doxycycline,Mild,Possible liver toxicity
+insulin,furosemide,Severe,Increased bleeding risk
+ibuprofen,furosemide,Severe,Risk of severe allergic reaction
+pantoprazole,ciprofloxacin,Moderate,May increase blood levels of the drug
+spironolactone,tramadol,High,Possible liver toxicity
+doxycycline,cetirizine,Moderate,Possible liver toxicity
+losartan,insulin,Severe,Reduced effectiveness of medication
+doxycycline,pyrazinamide,High,Possible liver toxicity
+paracetamol,fluconazole,Mild,Possible heart rhythm disturbance
+codeine,diazepam,High,Possible liver toxicity
+montelukast,loratadine,Moderate,Increased risk of dizziness or sedation
+tramadol,sertraline,Severe,May reduce drug absorption
+clopidogrel,diazepam,High,Possible liver toxicity
+furosemide,glimepiride,Moderate,Risk of severe allergic reaction
+azithromycin,glimepiride,Severe,May reduce drug absorption
+isoniazid,digoxin,Severe,May increase blood levels of the drug
+loratadine,tramadol,High,Reduced effectiveness of medication
+montelukast,telmisartan,High,May increase blood levels of the drug
+insulin,telmisartan,High,Increased bleeding risk
+loratadine,isoniazid,Mild,Risk of stomach irritation
+warfarin,ketoconazole,Severe,Reduced effectiveness of medication
+glimepiride,atenolol,Severe,Risk of kidney damage
+pyrazinamide,atenolol,Moderate,Increased risk of dizziness or sedation
+ethambutol,ranitidine,High,Risk of stomach irritation
+fluconazole,montelukast,Severe,Increased bleeding risk
+atorvastatin,ramipril,Severe,Possible heart rhythm disturbance
+metformin,ranitidine,Moderate,Possible heart rhythm disturbance
+fluoxetine,paracetamol,Moderate,Risk of stomach irritation
+isoniazid,cetirizine,High,May reduce drug absorption
+prednisone,alprazolam,Mild,Risk of severe allergic reaction
+spironolactone,ranitidine,Severe,Increased bleeding risk
+atenolol,tramadol,Mild,Increased bleeding risk
+fluoxetine,digoxin,Severe,Possible liver toxicity
+digoxin,codeine,Moderate,Risk of stomach irritation
+nitroglycerin,glimepiride,Severe,Possible liver toxicity
+ciprofloxacin,isosorbide,Moderate,Increased bleeding risk
+sertraline,loratadine,High,May reduce drug absorption
+clopidogrel,ciprofloxacin,Mild,Increased risk of dizziness or sedation
+tramadol,escitalopram,High,May reduce drug absorption
+isoniazid,ciprofloxacin,Severe,Possible heart rhythm disturbance
+ranitidine,fluconazole,High,Reduced effectiveness of medication
+prednisone,omeprazole,Moderate,May reduce drug absorption
+diazepam,metformin,High,May increase blood levels of the drug
+amlodipine,aspirin,Severe,Possible liver toxicity
+amoxicillin,pantoprazole,Severe,Increased bleeding risk
+sertraline,fluconazole,Mild,Increased bleeding risk
+diazepam,levothyroxine,Mild,Risk of kidney damage
+clopidogrel,pantoprazole,Moderate,Reduced effectiveness of medication
+tramadol,prednisone,High,Reduced effectiveness of medication
+telmisartan,digoxin,Severe,Risk of severe allergic reaction
+fluoxetine,sertraline,Mild,Possible heart rhythm disturbance
+codeine,atorvastatin,Mild,Possible liver toxicity
+ciprofloxacin,amlodipine,Moderate,Risk of kidney damage
+azithromycin,ibuprofen,Moderate,Increased risk of dizziness or sedation
+clopidogrel,isosorbide,Mild,Possible liver toxicity
+warfarin,ramipril,Severe,Possible heart rhythm disturbance
+morphine,pyrazinamide,Moderate,Possible liver toxicity
+escitalopram,pantoprazole,Mild,Possible liver toxicity
+ethambutol,digoxin,Severe,Risk of stomach irritation
+fluoxetine,cetirizine,High,Increased risk of dizziness or sedation
+warfarin,nitroglycerin,Moderate,Possible heart rhythm disturbance
+ciprofloxacin,glimepiride,High,Possible heart rhythm disturbance
+amoxicillin,loratadine,High,May reduce drug absorption
+ranitidine,azithromycin,High,Reduced effectiveness of medication
+prednisone,cetirizine,Mild,May reduce drug absorption
+isosorbide,aspirin,High,Increased bleeding risk
+digoxin,ranitidine,Mild,Possible heart rhythm disturbance
+ranitidine,clopidogrel,High,Possible heart rhythm disturbance
+fluconazole,glimepiride,Severe,Risk of severe allergic reaction
+tramadol,diazepam,Severe,Possible liver toxicity
+diazepam,loratadine,High,Risk of stomach irritation
+loratadine,clopidogrel,Mild,Increased risk of dizziness or sedation
+ketoconazole,clopidogrel,High,May reduce drug absorption
+insulin,loratadine,Moderate,Possible heart rhythm disturbance
+ibuprofen,cetirizine,Severe,Possible liver toxicity
+amoxicillin,ranitidine,High,Risk of stomach irritation
+atorvastatin,losartan,Severe,Risk of stomach irritation
+telmisartan,codeine,Severe,Reduced effectiveness of medication
+losartan,cetirizine,Severe,Risk of stomach irritation
+ranitidine,escitalopram,Moderate,Risk of kidney damage
+azithromycin,montelukast,Severe,May increase blood levels of the drug
+ketoconazole,pyrazinamide,Moderate,Reduced effectiveness of medication
+prednisone,cetirizine,Severe,Possible liver toxicity
+prednisone,montelukast,Severe,May reduce drug absorption
+telmisartan,clopidogrel,Severe,May increase blood levels of the drug
+ranitidine,atenolol,Moderate,May increase blood levels of the drug
+glimepiride,azithromycin,High,Possible liver toxicity
+rifampicin,fluconazole,High,Risk of stomach irritation
+insulin,prednisone,Mild,Increased bleeding risk
+clopidogrel,ketoconazole,Severe,Increased bleeding risk
+rifampicin,montelukast,High,Risk of kidney damage
+fluoxetine,omeprazole,Severe,Increased risk of dizziness or sedation
+atenolol,morphine,Mild,Risk of kidney damage
+glimepiride,aspirin,Severe,May reduce drug absorption
+nitroglycerin,ethambutol,High,Increased risk of dizziness or sedation
+omeprazole,alprazolam,Severe,May increase blood levels of the drug
+prednisone,glimepiride,Mild,Possible liver toxicity
+ciprofloxacin,fluconazole,Mild,Possible liver toxicity
+isoniazid,ketoconazole,Severe,Increased bleeding risk
+morphine,aspirin,Mild,Risk of stomach irritation
+fluconazole,prednisone,Moderate,May reduce drug absorption
+aspirin,isosorbide,High,Risk of severe allergic reaction
+insulin,isosorbide,Moderate,Increased risk of dizziness or sedation
+metformin,pantoprazole,Moderate,Risk of stomach irritation
+spironolactone,ramipril,Moderate,Possible liver toxicity
+amoxicillin,fluoxetine,High,May reduce drug absorption
+isosorbide,fluconazole,Severe,May increase blood levels of the drug
+prednisone,azithromycin,Severe,Risk of severe allergic reaction
+atorvastatin,escitalopram,Severe,Possible heart rhythm disturbance
+digoxin,fluconazole,Severe,Increased risk of dizziness or sedation
+sertraline,azithromycin,Mild,Increased bleeding risk
+ramipril,digoxin,High,Increased bleeding risk
+digoxin,tramadol,Moderate,Increased bleeding risk
+tramadol,aspirin,Mild,May increase blood levels of the drug
+morphine,aspirin,Moderate,May reduce drug absorption
+atenolol,fluoxetine,Severe,May increase blood levels of the drug
+digoxin,pyrazinamide,Mild,Risk of severe allergic reaction
+furosemide,alprazolam,High,May increase blood levels of the drug
+morphine,sertraline,Severe,Reduced effectiveness of medication
+rifampicin,prednisone,Moderate,Possible liver toxicity
+loratadine,metformin,Severe,May increase blood levels of the drug
+loratadine,insulin,High,Risk of stomach irritation
+digoxin,amlodipine,High,Risk of kidney damage
+tramadol,doxycycline,Moderate,Reduced effectiveness of medication
+omeprazole,alprazolam,Mild,May increase blood levels of the drug
+paracetamol,glimepiride,Mild,Risk of severe allergic reaction
+prednisone,diazepam,Moderate,Increased bleeding risk
+fluoxetine,doxycycline,High,Reduced effectiveness of medication
+amoxicillin,isoniazid,Mild,Reduced effectiveness of medication
+paracetamol,levothyroxine,High,Risk of kidney damage
+clopidogrel,spironolactone,Mild,Possible heart rhythm disturbance
+pyrazinamide,ibuprofen,Severe,Reduced effectiveness of medication
+ramipril,alprazolam,Mild,Risk of severe allergic reaction
+codeine,pyrazinamide,Severe,Increased risk of dizziness or sedation
+rifampicin,levothyroxine,Moderate,Risk of severe allergic reaction
+doxycycline,loratadine,Mild,Reduced effectiveness of medication
+pantoprazole,rifampicin,Mild,Risk of severe allergic reaction
+cetirizine,aspirin,Moderate,May reduce drug absorption
+montelukast,telmisartan,Moderate,Increased bleeding risk
+atorvastatin,escitalopram,Mild,Possible liver toxicity
+tramadol,cetirizine,High,Increased risk of dizziness or sedation
+paracetamol,ramipril,Severe,Increased risk of dizziness or sedation
+isoniazid,warfarin,Severe,May increase blood levels of the drug
+ciprofloxacin,paracetamol,Severe,May reduce drug absorption
+omeprazole,codeine,High,Risk of kidney damage
+furosemide,cetirizine,Mild,Increased bleeding risk
+cetirizine,fluoxetine,Severe,Reduced effectiveness of medication
+telmisartan,doxycycline,High,Increased risk of dizziness or sedation
+fluoxetine,isosorbide,Moderate,Increased bleeding risk
+glimepiride,omeprazole,Mild,May increase blood levels of the drug
+pantoprazole,tramadol,Moderate,Risk of severe allergic reaction
+loratadine,escitalopram,Severe,Increased risk of dizziness or sedation
+cetirizine,sertraline,High,May reduce drug absorption
+telmisartan,fluoxetine,High,Risk of stomach irritation
+metformin,glimepiride,Severe,Risk of severe allergic reaction
+furosemide,digoxin,Moderate,Risk of severe allergic reaction
+amoxicillin,escitalopram,Mild,Risk of severe allergic reaction
+doxycycline,fluconazole,High,Increased bleeding risk
+amoxicillin,glimepiride,Severe,Risk of severe allergic reaction
+ranitidine,sertraline,Mild,Reduced effectiveness of medication
+escitalopram,metformin,Mild,May increase blood levels of the drug
+isosorbide,glimepiride,Severe,Reduced effectiveness of medication
+metformin,pantoprazole,High,Possible liver toxicity
+digoxin,metformin,High,Risk of stomach irritation
+prednisone,ethambutol,Severe,May reduce drug absorption
+metformin,diazepam,Moderate,Increased risk of dizziness or sedation
+pyrazinamide,nitroglycerin,Mild,Risk of kidney damage
+warfarin,codeine,High,Increased risk of dizziness or sedation
+isoniazid,clopidogrel,Severe,May reduce drug absorption
+levothyroxine,metformin,High,Risk of stomach irritation
+rifampicin,metformin,Severe,May reduce drug absorption
+cetirizine,furosemide,Severe,Increased risk of dizziness or sedation
+ketoconazole,ciprofloxacin,Mild,Increased risk of dizziness or sedation
+loratadine,cetirizine,Severe,Risk of kidney damage
+fluconazole,nitroglycerin,High,Possible liver toxicity
+omeprazole,escitalopram,Severe,Possible heart rhythm disturbance
+atenolol,atorvastatin,Mild,Risk of severe allergic reaction
+nitroglycerin,ranitidine,High,May increase blood levels of the drug
+cetirizine,sertraline,Mild,Increased bleeding risk
+ciprofloxacin,isosorbide,Severe,Risk of severe allergic reaction
+alprazolam,sertraline,Moderate,Possible heart rhythm disturbance
+escitalopram,spironolactone,Severe,May increase blood levels of the drug
+telmisartan,amlodipine,Mild,Risk of kidney damage
+pantoprazole,rifampicin,Severe,Reduced effectiveness of medication
+prednisone,doxycycline,High,Increased risk of dizziness or sedation
+diazepam,telmisartan,High,May increase blood levels of the drug
+metformin,ciprofloxacin,Mild,Risk of stomach irritation
+azithromycin,omeprazole,High,Risk of stomach irritation
+rifampicin,prednisone,Mild,Increased risk of dizziness or sedation
+levothyroxine,warfarin,Mild,Risk of kidney damage
+isosorbide,ketoconazole,High,May reduce drug absorption
+prednisone,cetirizine,Mild,Risk of kidney damage
+escitalopram,warfarin,High,May reduce drug absorption
+metformin,ketoconazole,Mild,Increased risk of dizziness or sedation
+doxycycline,alprazolam,Moderate,Reduced effectiveness of medication
+cetirizine,fluoxetine,Mild,Risk of severe allergic reaction
+omeprazole,levothyroxine,Severe,Reduced effectiveness of medication
+furosemide,ethambutol,High,Risk of kidney damage
+alprazolam,aspirin,High,Risk of kidney damage
+losartan,levothyroxine,Severe,May reduce drug absorption
+atenolol,escitalopram,Mild,May reduce drug absorption
+morphine,isoniazid,High,Possible heart rhythm disturbance
+loratadine,diazepam,Severe,Increased risk of dizziness or sedation
+sertraline,fluoxetine,Moderate,Reduced effectiveness of medication
+ethambutol,escitalopram,Mild,Increased bleeding risk
+levothyroxine,omeprazole,Moderate,Increased bleeding risk
+warfarin,ethambutol,Mild,Risk of stomach irritation
+digoxin,furosemide,Moderate,Reduced effectiveness of medication
+ramipril,ibuprofen,Mild,Possible liver toxicity
+morphine,aspirin,Moderate,Risk of kidney damage
+alprazolam,pantoprazole,Moderate,Possible liver toxicity
+warfarin,nitroglycerin,High,May increase blood levels of the drug
+warfarin,morphine,Severe,Risk of kidney damage
+ibuprofen,spironolactone,Severe,May increase blood levels of the drug
+ciprofloxacin,alprazolam,Moderate,Reduced effectiveness of medication
+pyrazinamide,insulin,High,Risk of severe allergic reaction
+alprazolam,ranitidine,High,Risk of stomach irritation
+sertraline,alprazolam,Moderate,May reduce drug absorption
+doxycycline,ethambutol,Mild,Increased risk of dizziness or sedation
+atorvastatin,amlodipine,High,Risk of stomach irritation
+morphine,furosemide,Severe,May increase blood levels of the drug
+atenolol,azithromycin,High,Reduced effectiveness of medication
+atenolol,ketoconazole,Moderate,Reduced effectiveness of medication
+atenolol,escitalopram,Mild,Reduced effectiveness of medication
+ketoconazole,ramipril,Mild,Increased bleeding risk
+paracetamol,isosorbide,Mild,Reduced effectiveness of medication
+codeine,glimepiride,Moderate,Possible liver toxicity
+atorvastatin,ciprofloxacin,Mild,May increase blood levels of the drug
+pyrazinamide,sertraline,Mild,Reduced effectiveness of medication
+glimepiride,clopidogrel,Moderate,Increased risk of dizziness or sedation
+ramipril,isoniazid,Mild,Risk of severe allergic reaction
+omeprazole,alprazolam,Mild,Reduced effectiveness of medication
+fluoxetine,telmisartan,Severe,Possible liver toxicity
+isoniazid,furosemide,Mild,Increased bleeding risk
+atorvastatin,ciprofloxacin,Moderate,May reduce drug absorption
+prednisone,insulin,Severe,Risk of stomach irritation
+levothyroxine,atenolol,High,May increase blood levels of the drug
+alprazolam,rifampicin,Mild,Increased risk of dizziness or sedation
+nitroglycerin,prednisone,Moderate,Possible liver toxicity
+prednisone,warfarin,Moderate,Possible heart rhythm disturbance
+atenolol,clopidogrel,Severe,Risk of stomach irritation
+isosorbide,ciprofloxacin,Severe,Increased risk of dizziness or sedation
+levothyroxine,fluoxetine,Severe,Possible heart rhythm disturbance
+aspirin,rifampicin,Mild,Risk of kidney damage
+digoxin,isosorbide,Mild,Reduced effectiveness of medication
+furosemide,azithromycin,Mild,Risk of severe allergic reaction
+ranitidine,ethambutol,Moderate,Risk of stomach irritation
+nitroglycerin,ethambutol,Moderate,May reduce drug absorption
+montelukast,glimepiride,High,May reduce drug absorption
+ciprofloxacin,omeprazole,Moderate,Risk of kidney damage
+isosorbide,furosemide,Mild,Increased risk of dizziness or sedation
+ethambutol,loratadine,High,Reduced effectiveness of medication
+levothyroxine,warfarin,Mild,May increase blood levels of the drug
+alprazolam,isosorbide,Moderate,May reduce drug absorption
+ibuprofen,digoxin,High,Increased risk of dizziness or sedation
+omeprazole,prednisone,Mild,Possible heart rhythm disturbance
+ketoconazole,ibuprofen,High,Reduced effectiveness of medication
+ramipril,metformin,Moderate,Increased bleeding risk
+levothyroxine,telmisartan,Mild,Increased risk of dizziness or sedation
+paracetamol,cetirizine,Moderate,May reduce drug absorption
+digoxin,glimepiride,Severe,Possible liver toxicity
+rifampicin,montelukast,Moderate,Increased risk of dizziness or sedation
+furosemide,loratadine,Moderate,May increase blood levels of the drug
+diazepam,alprazolam,Severe,Increased bleeding risk
+sertraline,tramadol,High,Risk of stomach irritation
+fluoxetine,prednisone,Severe,May reduce drug absorption
+metformin,prednisone,Moderate,Reduced effectiveness of medication
+montelukast,nitroglycerin,Mild,Possible heart rhythm disturbance
+alprazolam,prednisone,Moderate,May increase blood levels of the drug
+sertraline,amlodipine,Mild,Risk of kidney damage
+aspirin,fluoxetine,Mild,Risk of severe allergic reaction
+isoniazid,azithromycin,Severe,Reduced effectiveness of medication
+digoxin,glimepiride,High,Reduced effectiveness of medication
+spironolactone,rifampicin,Moderate,Increased risk of dizziness or sedation
+telmisartan,ibuprofen,Mild,Increased risk of dizziness or sedation
+diazepam,omeprazole,High,Possible liver toxicity
+rifampicin,cetirizine,Severe,Risk of severe allergic reaction
+montelukast,tramadol,High,Possible heart rhythm disturbance
+fluoxetine,rifampicin,Mild,Risk of stomach irritation
+ketoconazole,cetirizine,High,Possible liver toxicity
+glimepiride,ramipril,Moderate,Possible heart rhythm disturbance
+warfarin,isoniazid,Severe,Increased risk of dizziness or sedation
+isoniazid,nitroglycerin,Severe,Increased risk of dizziness or sedation
+pyrazinamide,ramipril,High,Reduced effectiveness of medication
+levothyroxine,codeine,Severe,Possible heart rhythm disturbance
+levothyroxine,pyrazinamide,High,May increase blood levels of the drug
+diazepam,pantoprazole,Moderate,Reduced effectiveness of medication
+morphine,atenolol,High,May reduce drug absorption
+losartan,rifampicin,Moderate,Reduced effectiveness of medication
+ketoconazole,atorvastatin,High,Possible heart rhythm disturbance
+morphine,digoxin,High,Increased risk of dizziness or sedation
+cetirizine,isoniazid,High,May reduce drug absorption
+digoxin,ketoconazole,Moderate,May increase blood levels of the drug
+aspirin,amoxicillin,High,Increased risk of dizziness or sedation
+glimepiride,digoxin,Severe,May increase blood levels of the drug
+ranitidine,isosorbide,Mild,May increase blood levels of the drug
+digoxin,levothyroxine,Moderate,Possible heart rhythm disturbance
+doxycycline,paracetamol,High,Possible liver toxicity
+cetirizine,atenolol,Moderate,Risk of severe allergic reaction
+levothyroxine,ramipril,Severe,May reduce drug absorption
+ranitidine,codeine,High,Increased bleeding risk
+atenolol,escitalopram,Moderate,May increase blood levels of the drug
+sertraline,cetirizine,Severe,May reduce drug absorption
+telmisartan,furosemide,Moderate,May reduce drug absorption
+prednisone,metformin,Severe,Possible heart rhythm disturbance
+ranitidine,insulin,High,May increase blood levels of the drug
+digoxin,ranitidine,Moderate,Possible liver toxicity
+paracetamol,ethambutol,Mild,Possible heart rhythm disturbance
+rifampicin,aspirin,Moderate,May reduce drug absorption
+ciprofloxacin,telmisartan,Moderate,Risk of kidney damage
+glimepiride,metformin,High,Possible heart rhythm disturbance
+fluconazole,nitroglycerin,Severe,Increased bleeding risk
+azithromycin,pantoprazole,Mild,May increase blood levels of the drug
+nitroglycerin,atorvastatin,Severe,Risk of stomach irritation
+fluconazole,isoniazid,High,Increased risk of dizziness or sedation
+ciprofloxacin,escitalopram,High,Reduced effectiveness of medication
+cetirizine,pyrazinamide,Mild,May increase blood levels of the drug
+ciprofloxacin,sertraline,High,Risk of severe allergic reaction
+codeine,furosemide,Moderate,Risk of stomach irritation
+paracetamol,atenolol,High,Risk of kidney damage
+ibuprofen,sertraline,Mild,Possible heart rhythm disturbance
+digoxin,losartan,Moderate,Increased bleeding risk
+warfarin,codeine,Severe,Possible heart rhythm disturbance
+ramipril,sertraline,Mild,Risk of kidney damage
+atorvastatin,ciprofloxacin,Moderate,Risk of stomach irritation
+isoniazid,azithromycin,Mild,Possible liver toxicity
+omeprazole,amoxicillin,Severe,May reduce drug absorption
+fluoxetine,fluconazole,High,Increased risk of dizziness or sedation
+furosemide,pyrazinamide,Severe,Risk of stomach irritation
+ranitidine,amoxicillin,Mild,Risk of kidney damage
+montelukast,spironolactone,Moderate,Risk of severe allergic reaction
+furosemide,paracetamol,Severe,Risk of kidney damage
+escitalopram,ciprofloxacin,Mild,May increase blood levels of the drug
+digoxin,levothyroxine,Severe,Risk of severe allergic reaction
+levothyroxine,alprazolam,Moderate,Risk of stomach irritation
+losartan,prednisone,Severe,Risk of severe allergic reaction
+metformin,atenolol,Severe,Increased bleeding risk
+cetirizine,tramadol,Severe,Reduced effectiveness of medication
+diazepam,tramadol,Mild,May reduce drug absorption
+doxycycline,pyrazinamide,High,Increased bleeding risk
+cetirizine,amoxicillin,High,Increased bleeding risk
+isosorbide,ranitidine,Mild,Risk of severe allergic reaction
+montelukast,ibuprofen,Severe,Increased risk of dizziness or sedation
+fluconazole,ciprofloxacin,Mild,Increased bleeding risk
+ketoconazole,loratadine,High,May reduce drug absorption
+omeprazole,amlodipine,Mild,Risk of severe allergic reaction
+azithromycin,ethambutol,High,Risk of stomach irritation
+tramadol,digoxin,Moderate,Risk of kidney damage
+loratadine,rifampicin,Severe,Possible liver toxicity
+ibuprofen,pyrazinamide,High,May reduce drug absorption
+pantoprazole,omeprazole,Mild,Risk of severe allergic reaction
+pyrazinamide,tramadol,Moderate,Risk of stomach irritation
+sertraline,isosorbide,Mild,Risk of severe allergic reaction
+ethambutol,montelukast,Mild,Risk of stomach irritation
+warfarin,metformin,Severe,Risk of kidney damage
+codeine,furosemide,Moderate,Possible liver toxicity
+telmisartan,ibuprofen,Moderate,Possible liver toxicity
+losartan,nitroglycerin,Mild,Increased risk of dizziness or sedation
+ketoconazole,clopidogrel,Severe,Increased bleeding risk
+alprazolam,pantoprazole,High,Risk of kidney damage
+telmisartan,isoniazid,Moderate,Risk of severe allergic reaction
+doxycycline,prednisone,Mild,Risk of kidney damage
+losartan,ketoconazole,Mild,Risk of kidney damage
+aspirin,tramadol,Moderate,May reduce drug absorption
+furosemide,spironolactone,Mild,May reduce drug absorption
+sertraline,telmisartan,Mild,Risk of stomach irritation
+morphine,rifampicin,Mild,May reduce drug absorption
+ethambutol,insulin,High,Risk of kidney damage
+isosorbide,fluoxetine,Moderate,Possible liver toxicity
+paracetamol,digoxin,High,Risk of stomach irritation
+fluoxetine,ramipril,High,Increased risk of dizziness or sedation
+azithromycin,digoxin,High,Reduced effectiveness of medication
+isoniazid,ibuprofen,Mild,Risk of stomach irritation
+telmisartan,amoxicillin,Moderate,May increase blood levels of the drug
+doxycycline,amlodipine,Moderate,Increased risk of dizziness or sedation
+omeprazole,furosemide,Mild,Increased risk of dizziness or sedation
+sertraline,amoxicillin,Severe,Risk of kidney damage
+aspirin,alprazolam,Moderate,Risk of kidney damage
+isoniazid,ciprofloxacin,Mild,Possible heart rhythm disturbance
+furosemide,prednisone,High,Increased risk of dizziness or sedation
+montelukast,ethambutol,Moderate,Reduced effectiveness of medication
+atenolol,fluoxetine,Severe,Increased risk of dizziness or sedation
+sertraline,diazepam,Severe,Risk of severe allergic reaction
+isosorbide,sertraline,Moderate,May reduce drug absorption
+fluoxetine,morphine,Severe,Risk of kidney damage
+fluconazole,alprazolam,Moderate,Risk of kidney damage
+escitalopram,isosorbide,Moderate,Possible heart rhythm disturbance
+isoniazid,ibuprofen,Mild,Risk of severe allergic reaction
+isoniazid,morphine,Mild,Risk of kidney damage
+escitalopram,tramadol,Mild,Increased risk of dizziness or sedation
+fluoxetine,amoxicillin,Moderate,Risk of stomach irritation
+amlodipine,ethambutol,Severe,Risk of kidney damage
+fluoxetine,nitroglycerin,Mild,Possible heart rhythm disturbance
+loratadine,warfarin,High,Risk of kidney damage
+escitalopram,amoxicillin,Severe,Reduced effectiveness of medication
+pyrazinamide,morphine,Moderate,May increase blood levels of the drug
+azithromycin,tramadol,Moderate,Risk of severe allergic reaction
+escitalopram,loratadine,High,Reduced effectiveness of medication
+omeprazole,nitroglycerin,Mild,Increased bleeding risk
+glimepiride,isoniazid,Severe,May increase blood levels of the drug
+rifampicin,levothyroxine,Moderate,May increase blood levels of the drug
+levothyroxine,losartan,Severe,May increase blood levels of the drug
+omeprazole,metformin,High,May reduce drug absorption
+losartan,furosemide,High,May reduce drug absorption
+atenolol,escitalopram,Mild,Risk of kidney damage
+levothyroxine,codeine,Mild,Increased risk of dizziness or sedation
+atenolol,warfarin,High,May increase blood levels of the drug
+morphine,nitroglycerin,Mild,Reduced effectiveness of medication
+alprazolam,codeine,High,Increased bleeding risk
+amoxicillin,levothyroxine,High,Risk of severe allergic reaction
+doxycycline,tramadol,Mild,Possible heart rhythm disturbance
+ramipril,warfarin,Severe,Increased risk of dizziness or sedation
+amoxicillin,isosorbide,Mild,Risk of stomach irritation
+tramadol,azithromycin,Severe,Increased bleeding risk
+atorvastatin,prednisone,Moderate,May increase blood levels of the drug
+amoxicillin,pyrazinamide,Mild,Possible heart rhythm disturbance
+ketoconazole,diazepam,Moderate,Increased bleeding risk
+paracetamol,insulin,High,Increased risk of dizziness or sedation
+aspirin,losartan,High,Risk of stomach irritation
+losartan,pyrazinamide,Moderate,May reduce drug absorption
+pyrazinamide,isosorbide,Moderate,May reduce drug absorption
+sertraline,loratadine,Moderate,Risk of stomach irritation
+telmisartan,insulin,Severe,Risk of stomach irritation
+metformin,clopidogrel,Severe,Reduced effectiveness of medication
+ketoconazole,fluconazole,Mild,Increased bleeding risk
+ketoconazole,digoxin,Moderate,Reduced effectiveness of medication
+ciprofloxacin,montelukast,Severe,Risk of severe allergic reaction
+isosorbide,fluconazole,Moderate,Risk of kidney damage
+doxycycline,aspirin,Mild,Possible liver toxicity
+amlodipine,loratadine,High,Reduced effectiveness of medication
+fluoxetine,metformin,Mild,Increased bleeding risk
+prednisone,ranitidine,Mild,May increase blood levels of the drug
+digoxin,insulin,High,Increased risk of dizziness or sedation
+ethambutol,warfarin,Severe,Risk of kidney damage
+nitroglycerin,morphine,High,Possible liver toxicity
+rifampicin,telmisartan,Severe,Reduced effectiveness of medication
+fluoxetine,rifampicin,High,Reduced effectiveness of medication
+ciprofloxacin,paracetamol,High,Increased bleeding risk
+morphine,diazepam,Mild,Increased bleeding risk
+pantoprazole,ethambutol,Moderate,May reduce drug absorption
+insulin,fluconazole,High,Risk of kidney damage
+doxycycline,morphine,Moderate,Risk of severe allergic reaction
+cetirizine,doxycycline,Severe,Risk of kidney damage
+doxycycline,escitalopram,High,Possible heart rhythm disturbance
+nitroglycerin,ketoconazole,Moderate,May reduce drug absorption
+warfarin,atenolol,Severe,Possible heart rhythm disturbance
+prednisone,aspirin,Severe,Risk of stomach irritation
+fluconazole,sertraline,Moderate,Possible liver toxicity
+ramipril,prednisone,Moderate,May increase blood levels of the drug
+diazepam,paracetamol,High,Risk of kidney damage
+ketoconazole,losartan,High,Increased risk of dizziness or sedation
+cetirizine,aspirin,Moderate,May increase blood levels of the drug
+aspirin,fluconazole,Severe,Increased bleeding risk
+telmisartan,amlodipine,High,May increase blood levels of the drug

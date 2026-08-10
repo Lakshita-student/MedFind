@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>MedFind AI</title>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+<style>
+
+body{
+font-family: Arial;
+margin:0;
+background:#f4f7fb;
+}
+
+/* HEADER */
+
+header{
+background:white;
+padding:18px 40px;
+font-size:22px;
+font-weight:bold;
+color:#00a67e;
+box-shadow:0 2px 10px rgba(0,0,0,0.1);
+border-radius:12px;
+}
+
+header i{
+float:right;
+}
+
+/* HERO */
+
+.hero{
+display:flex;
+align-items:center;
+justify-content:space-between;
+padding:80px 10%;
+background:#eaf4ff;
+}
+
+.hero-text{
+width:50%;
+}
+
+.hero-text h1{
+font-size:60px;
+margin-bottom:20px;
+}
+
+.hero-text span{
+color:#00a67e;
+}
+
+.hero-text p{
+font-size:18px;
+color:#555;
+}
+
+.hero-img{
+width:50%;
+}
+
+.hero-img img{
+width:100%;
+border-radius:20px;
+}
+
+/* FEATURE BUTTONS */
+
+.feature-buttons{
+display:flex;
+justify-content:center;
+gap:50px;
+margin-top:40px;
+}
+
+.feature-btn{
+background:white;
+border-radius:12px;
+padding:20px 30px;
+border:none;
+box-shadow:0 6px 15px rgba(0,0,0,0.1);
+cursor:pointer;
+font-size:18px;
+font-weight:bold;
+color:gray;
+transition:0.3s;
+width:350px;
+}
+
+.feature-btn p{
+font-size:14px;
+color:gray;
+margin-top:5px;
+}
+
+.feature-btn:hover{
+color:white;
+background:#2563eb;
+transform:translateY(-5px);
+}
+
+/* SEARCH */
+
+.container{
+width:90%;
+max-width:1100px;
+margin:auto;
+margin-top:40px;
+}
+
+.search-card{
+background:white;
+padding:25px;
+border-radius:10px;
+box-shadow:0 4px 12px rgba(0,0,0,0.1);
+}
+
+.search-card input[type="text"]{
+width:100%;
+padding:12px;
+border-radius:6px;
+border:1px solid #ccc;
+font-size:16px;
+}
+
+.search-card input[type="file"]{
+margin-top:10px;
+}
+
+button{
+padding:10px 18px;
+border:none;
+border-radius:6px;
+background:#2563eb;
+color:white;
+cursor:pointer;
+font-size:15px;
+}
+
+button:hover{
+background:#1e4ed8;
+}
+
+.voice-btn{
+background:#10b981;
+}
+
+/* RESULTS */
+
+.results{
+margin-top:30px;
+}
+
+.pharmacy-card{
+background:white;
+padding:18px;
+border-radius:10px;
+box-shadow:0 4px 10px rgba(0,0,0,0.08);
+margin-bottom:15px;
+}
+
+.pharmacy-name{
+font-size:18px;
+font-weight:bold;
+}
+
+#map{
+height:500px;
+width:100%;
+margin-top:40px;
+border-radius:10px;
+}
+
+footer{
+text-align:center;
+padding:20px;
+background:white;
+color:#555;
+margin-top:40px;
+box-shadow:0 6px 15px rgba(0,0,0,0.1);
+}
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+<span style="float:left;padding-right:5px;">
+<i class="fa-solid fa-capsules"></i>
+</span>
+MedFind AI
+<i class="fa-solid fa-user"></i>
+</header>
+
+
+<!-- HERO -->
+
+<section class="hero">
+
+<div class="hero-text">
+
+<h1>Find Your <span>Medicine</span> Instantly</h1>
+
+<p>
+Upload a prescription photo or speak the medicine name
+and instantly discover nearby pharmacies that have it in stock.
+</p>
+
+</div>
+
+<div class="hero-img">
+<img src="{{ url_for('static', filename='download.jpeg') }}">
+</div>
+
+</section>
+
+
+<!-- FEATURE BUTTONS -->
+
+<div class="feature-buttons">
+
+<button class="feature-btn" onclick="startVoice()">
+Speak Here
+<p>Say medicine name</p>
+</button>
+
+<button class="feature-btn" onclick="openTextSearch()">
+Detect Medicine
+<p>Type medicine name</p>
+</button>
+
+<button class="feature-btn" onclick="scrollToMap()">
+Find Pharmacy
+<p>See pharmacies on map</p>
+</button>
+
+</div>
+
+
+<!-- SEARCH -->
+
+<div class="container">
+
+<div class="search-card">
+
+<form method="POST" enctype="multipart/form-data">
+
+<input type="text" name="medicine" placeholder="Enter medicine name">
+
+<br><br>
+
+<input type="file" name="image">
+
+<br><br>
+
+<input type="hidden" name="action" value="search">
+
+<button type="button" onclick="startVoice()" class="voice-btn">🎤 Voice Search</button>
+
+<input type="hidden" id="lat" name="lat">
+<input type="hidden" id="lng" name="lng">
+
+<button type="submit">Find Pharmacy</button>
+
+</form>
+
+</div>
+
+
+<!-- DETECTED MEDICINES -->
+
+{% if medicines %}
+
+<h3>Detected Medicines</h3>
+
+<ul>
+{% for med in medicines %}
+<li>{{ med }}</li>
+{% endfor %}
+</ul>
+
+{% endif %}
+
+{% if searched_substitutes %}
+<h3>Suggested alternatives used for search:</h3>
+<ul>
+{% for med in searched_substitutes %}
+<li>{{ med }}</li>
+{% endfor %}
+</ul>
+{% endif %}
+
+<!-- INTERACTION WARNINGS -->
+
+{% if interaction_warnings %}
+<div style="background:#ffe6e6;padding:15px;border-radius:10px;margin-top:20px">
+<h3>⚠ Medicine Interaction Warning</h3>
+
+{% for warning in interaction_warnings %}
+<p>
+<b>{{ warning.med1 }} + {{ warning.med2 }}</b><br>
+
+<span style="color:red;font-weight:bold">
+Severity: {{ warning.severity }}
+</span>
+
+<br>
+{{ warning.description }}
+</p>
+{% endfor %}
+
+</div>
+{% endif %}
+
+
+<!-- PHARMACY RESULTS -->
+
+{% if pharmacies %}
+
+<div class="results">
+
+<h2>Nearby Pharmacies</h2>
+
+{% for p in pharmacies %}
+
+<div class="pharmacy-card">
+
+<div class="pharmacy-name">{{p.name}}</div>
+
+<p><b>Medicine:</b> {{p.medicine}}</p>
+
+<p><b>Distance:</b> {{p.distance}} km</p>
+
+<p><b>Stock:</b> {{p.stock}}</p>
+
+<button onclick="showRoute('{{p.latitude}}','{{p.longitude}}')">
+Get Directions
+</button>
+
+</div>
+
+{% endfor %}
+
+</div>
+
+{% endif %}
+
+
+<!-- SUBSTITUTE MEDICINES -->
+
+{% if substitutes %}
+
+<h3>Medicine not available</h3>
+<p>Suggested substitutes:</p>
+
+<ul>
+{% for med, subs in substitutes.items() %}
+    {% for s in subs %}
+        <li>{{ s }}</li>
+    {% endfor %}
+{% endfor %}
+</ul>
+
+<form method="POST">
+
+<input type="hidden" name="medicine" value="{{ medicines[0] }}">
+<input type="hidden" name="action" value="find_pharmacy">
+
+<input type="hidden" id="lat" name="lat">
+<input type="hidden" id="lng" name="lng">
+
+<button type="submit">
+Find Pharmacies Anyway
+</button>
+
+</form>
+
+{% endif %}
+
+
+
+
+<div id="map"></div>
+
+</div>
+
+
+<footer>
+<p>© 2026 MedFinder — Smart Medicine Availability Finder</p>
+</footer>
+
+
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+<script>
+
+var pharmacies = JSON.parse('{{ pharmacies | tojson | safe }}');
+
+var greenIcon = new L.Icon({
+iconUrl: "/static/icons/green-marker.png",
+iconSize: [35,45],
+iconAnchor: [17,45],
+popupAnchor: [0,-40]
+});
+
+var yellowIcon = new L.Icon({
+iconUrl: "/static/icons/yellow-marker.png",
+iconSize: [35,45],
+iconAnchor: [17,45],
+popupAnchor: [0,-40]
+});
+
+var redIcon = new L.Icon({
+iconUrl: "/static/icons/red-marker.png",
+iconSize: [35,45],
+iconAnchor: [17,45],
+popupAnchor: [0,-40]
+});
+
+var map;
+var userLat = null;
+var userLng = null;
+
+function initMap(){
+
+navigator.geolocation.getCurrentPosition(function(position){
+
+userLat = position.coords.latitude;
+userLng = position.coords.longitude;
+
+document.getElementById("lat").value = userLat;
+document.getElementById("lng").value = userLng;
+
+map = L.map('map').setView([userLat,userLng],13);
+
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{
+maxZoom:19
+}).addTo(map);
+
+L.marker([userLat,userLng])
+.addTo(map)
+.bindPopup("You are here")
+.openPopup();
+
+pharmacies.forEach(function(p){
+
+var icon;
+
+if(p.color === "red"){
+icon = redIcon;
+}
+else if(p.color === "yellow"){
+icon = yellowIcon;
+}
+else{
+icon = greenIcon;
+}
+
+L.marker([p.latitude,p.longitude], {icon: icon})
+.addTo(map)
+.bindPopup(
+"<b>" + p.name + "</b><br>" +
+p.address + "<br>" +
+"Stock: " + p.stock
+);
+
+});
+
+if(pharmacies.length > 0){
+
+var group = new L.featureGroup();
+
+group.addLayer(L.marker([userLat, userLng]));
+
+pharmacies.forEach(function(p){
+group.addLayer(L.marker([p.latitude,p.longitude]));
+});
+
+map.fitBounds(group.getBounds(), {padding:[50,50]});
+
+}
+
+},
+
+function(){
+
+map = L.map('map').setView([28.6139,77.2090],5);
+
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{
+maxZoom:19
+}).addTo(map);
+
+});
+
+}
+
+initMap();
+
+
+function showRoute(lat,lng){
+
+lat = parseFloat(lat)
+lng = parseFloat(lng)
+
+if(userLat === null || userLng === null){
+alert("Waiting for your location...");
+return;
+}
+
+window.open(
+"https://www.google.com/maps/dir/" + userLat + "," + userLng + "/" + lat + "," + lng
+);
+
+}
+
+
+function openTextSearch(){
+document.querySelector('input[name="medicine"]').focus()
+}
+
+function scrollToMap(){
+document.getElementById("map").scrollIntoView({
+behavior:"smooth"
+})
+}
+
+
+function startVoice(){
+
+const recognition = new webkitSpeechRecognition()
+
+recognition.lang = "en-US"
+recognition.start()
+
+recognition.onresult = function(event){
+
+var speechText = event.results[0][0].transcript
+
+document.querySelector('input[name="medicine"]').value = speechText
+
+alert("Detected Medicine: " + speechText)
+
+}
+
+}
+
+</script>
+
+</body>
+</html>
